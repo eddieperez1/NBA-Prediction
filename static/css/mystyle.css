@@ -1,0 +1,78 @@
+body {
+  font-family: "Lato", sans-serif;
+  /* background-image: url("../basketball-ball-wooden-hardwood-floor.jpg"); */
+  background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/basketball-art-print-swoosh-vs-22-takumi-park.jpg"); 
+  background-size: 100%;
+  background-position: top right;
+  background-repeat: repeat-y;
+}
+
+.sidenav {
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 10px;
+  left: 5px;
+  background: rgb(68, 68, 68);
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 10px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #ffffff;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f58f4f;
+}
+
+.title {
+  justify-content: center;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(50, 50, 50);
+  color: rgb(255, 255, 255);
+}
+.container {
+  font-size: 18px; /* Increased text to enable scrolling */
+  padding-top: 50px;
+  margin-left: 100px;
+  text-align: center;
+  background-color: #ffffff00;
+}
+
+.row{
+  padding-bottom: 50px;
+  background-color: rgba(204, 204, 204, 0.895);
+}
+
+.form-select {
+  width: auto;
+}
+
+.button 
+  {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #166dc4;
+    border-radius: 6px;
+    outline: none;
+  }
+
+.footnotes {
+  background: rgb(50, 50, 50);
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}

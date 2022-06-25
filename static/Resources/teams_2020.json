@@ -1,0 +1,242 @@
+{
+    "76ers": {
+      "2pointer_PCT_AVG": 47.61840659340659,
+      "3pointer_PCT_AVG": 37.67078754578754,
+      "FreeThrow_PCT_AVG": 76.85714285714286,
+      "Assists_AVG": 23.76739926739927,
+      "Rebounds_AVG": 45.05494505494505,
+      "Attendance": 639.491
+    },
+    "Bucks": {
+      "2pointer_PCT_AVG": 48.78274390243902,
+      "3pointer_PCT_AVG": 38.72753048780487,
+      "FreeThrow_PCT_AVG": 75.7457012195122,
+      "Assists_AVG": 25.56158536585366,
+      "Rebounds_AVG": 48.59542682926829,
+      "Attendance": 549.036
+    },
+    "Bulls": {
+      "2pointer_PCT_AVG": 47.70416666666667,
+      "3pointer_PCT_AVG": 36.4280701754386,
+      "FreeThrow_PCT_AVG": 79.20190058479533,
+      "Assists_AVG": 26.70614035087719,
+      "Rebounds_AVG": 44.970029239766085,
+      "Attendance": 639.352
+    },
+    "Cavaliers": {
+      "2pointer_PCT_AVG": 44.92240990990991,
+      "3pointer_PCT_AVG": 33.47912912912913,
+      "FreeThrow_PCT_AVG": 74.18003003003004,
+      "Assists_AVG": 23.794294294294296,
+      "Rebounds_AVG": 42.75037537537538,
+      "Attendance": 623.576
+    },
+    "Celtics": {
+      "2pointer_PCT_AVG": 46.72775842044135,
+      "3pointer_PCT_AVG": 37.396602787456445,
+      "FreeThrow_PCT_AVG": 77.62073170731708,
+      "Assists_AVG": 23.49274099883856,
+      "Rebounds_AVG": 44.50813008130081,
+      "Attendance": 610.864
+    },
+    "Clippers": {
+      "2pointer_PCT_AVG": 48.26983974358974,
+      "3pointer_PCT_AVG": 40.93227564102564,
+      "FreeThrow_PCT_AVG": 83.62298076923076,
+      "Assists_AVG": 24.27724358974359,
+      "Rebounds_AVG": 44.31185897435897,
+      "Attendance": 610.176
+    },
+    "Grizzlies": {
+      "2pointer_PCT_AVG": 46.40833333333333,
+      "3pointer_PCT_AVG": 35.37380952380952,
+      "FreeThrow_PCT_AVG": 77.69642857142858,
+      "Assists_AVG": 26.55952380952381,
+      "Rebounds_AVG": 46.69047619047619,
+      "Attendance": 523.297
+    },
+    "Hawks": {
+      "2pointer_PCT_AVG": 46.989444444444445,
+      "3pointer_PCT_AVG": 37.17722222222222,
+      "FreeThrow_PCT_AVG": 81.51194444444444,
+      "Assists_AVG": 24.18472222222222,
+      "Rebounds_AVG": 45.93333333333334,
+      "Attendance": 545.453
+    },
+    "Heat": {
+      "2pointer_PCT_AVG": 46.59321450906816,
+      "3pointer_PCT_AVG": 35.59771732332708,
+      "FreeThrow_PCT_AVG": 79.05356472795498,
+      "Assists_AVG": 26.14634146341464,
+      "Rebounds_AVG": 41.54784240150094,
+      "Attendance": 629.771
+    },
+    "Hornets": {
+      "2pointer_PCT_AVG": 45.45501422475107,
+      "3pointer_PCT_AVG": 36.657574679943096,
+      "FreeThrow_PCT_AVG": 75.09992887624466,
+      "Assists_AVG": 26.94701280227596,
+      "Rebounds_AVG": 43.794452347083926,
+      "Attendance": 478.591
+    },
+    "Jazz": {
+      "2pointer_PCT_AVG": 46.65125313283208,
+      "3pointer_PCT_AVG": 38.59116541353384,
+      "FreeThrow_PCT_AVG": 79.31077694235589,
+      "Assists_AVG": 23.84837092731829,
+      "Rebounds_AVG": 48.02318295739349,
+      "Attendance": 567.486
+    },
+    "Kings": {
+      "2pointer_PCT_AVG": 48.17988095238095,
+      "3pointer_PCT_AVG": 36.317678571428566,
+      "FreeThrow_PCT_AVG": 74.27511904761904,
+      "Assists_AVG": 25.669047619047618,
+      "Rebounds_AVG": 41.80297619047619,
+      "Attendance": 520.663
+    },
+    "Knicks": {
+      "2pointer_PCT_AVG": 45.656067251461984,
+      "3pointer_PCT_AVG": 39.402046783625735,
+      "FreeThrow_PCT_AVG": 78.34166666666667,
+      "Assists_AVG": 21.47222222222222,
+      "Rebounds_AVG": 45.19225146198831,
+      "Attendance": 588.907
+    },
+    "Lakers": {
+      "2pointer_PCT_AVG": 47.02875,
+      "3pointer_PCT_AVG": 34.9463141025641,
+      "FreeThrow_PCT_AVG": 73.7228205128205,
+      "Assists_AVG": 24.513141025641023,
+      "Rebounds_AVG": 44.15480769230769,
+      "Attendance": 529.87
+    },
+    "Magic": {
+      "2pointer_PCT_AVG": 43.13275641025641,
+      "3pointer_PCT_AVG": 34.03467948717949,
+      "FreeThrow_PCT_AVG": 77.69006410256411,
+      "Assists_AVG": 21.861858974358974,
+      "Rebounds_AVG": 45.39198717948717,
+      "Attendance": 682.096
+    },
+    "Mavericks": {
+      "2pointer_PCT_AVG": 46.874487179487176,
+      "3pointer_PCT_AVG": 35.74535256410256,
+      "FreeThrow_PCT_AVG": 78.14163461538462,
+      "Assists_AVG": 23.111538461538466,
+      "Rebounds_AVG": 43.47596153846154,
+      "Attendance": 620.789
+    },
+    "Nets": {
+      "2pointer_PCT_AVG": 49.19523809523809,
+      "3pointer_PCT_AVG": 38.62023809523809,
+      "FreeThrow_PCT_AVG": 79.96904761904761,
+      "Assists_AVG": 26.69047619047619,
+      "Rebounds_AVG": 44.40476190476191,
+      "Attendance": 524.907
+    },
+    "Nuggets": {
+      "2pointer_PCT_AVG": 48.85243902439024,
+      "3pointer_PCT_AVG": 38.084146341463416,
+      "FreeThrow_PCT_AVG": 80.26585365853659,
+      "Assists_AVG": 27.0609756097561,
+      "Rebounds_AVG": 44.329268292682926,
+      "Attendance": 633.153
+    },
+    "Pacers": {
+      "2pointer_PCT_AVG": 47.53321718931476,
+      "3pointer_PCT_AVG": 36.26033681765389,
+      "FreeThrow_PCT_AVG": 79.16080139372824,
+      "Assists_AVG": 27.24332171893148,
+      "Rebounds_AVG": 42.90301974448316,
+      "Attendance": 529.002
+    },
+    "Pelicans": {
+      "2pointer_PCT_AVG": 47.9272256097561,
+      "3pointer_PCT_AVG": 34.31475609756098,
+      "FreeThrow_PCT_AVG": 72.54887195121952,
+      "Assists_AVG": 25.75609756097561,
+      "Rebounds_AVG": 47.09573170731707,
+      "Attendance": 528.172
+    },
+    "Pistons": {
+      "2pointer_PCT_AVG": 45.22432432432432,
+      "3pointer_PCT_AVG": 34.9472972972973,
+      "FreeThrow_PCT_AVG": 75.09864864864865,
+      "Assists_AVG": 24.18918918918919,
+      "Rebounds_AVG": 42.7972972972973,
+      "Attendance": 509.463
+    },
+    "Raptors": {
+      "2pointer_PCT_AVG": 44.86639194139194,
+      "3pointer_PCT_AVG": 36.93928571428572,
+      "FreeThrow_PCT_AVG": 80.71776556776558,
+      "Assists_AVG": 24.12912087912088,
+      "Rebounds_AVG": 42.158424908424905,
+      "Attendance": 633.456
+    },
+    "Rockets": {
+      "2pointer_PCT_AVG": 44.28018292682927,
+      "3pointer_PCT_AVG": 33.79722560975609,
+      "FreeThrow_PCT_AVG": 74.92902439024391,
+      "Assists_AVG": 23.545731707317078,
+      "Rebounds_AVG": 42.22134146341463,
+      "Attendance": 578.458
+    },
+    "Spurs": {
+      "2pointer_PCT_AVG": 46.24595238095238,
+      "3pointer_PCT_AVG": 35.38238095238096,
+      "FreeThrow_PCT_AVG": 79.72738095238095,
+      "Assists_AVG": 24.57619047619048,
+      "Rebounds_AVG": 44.42083333333333,
+      "Attendance": 550.515
+    },
+    "Suns": {
+      "2pointer_PCT_AVG": 48.98780487804878,
+      "3pointer_PCT_AVG": 37.889024390243904,
+      "FreeThrow_PCT_AVG": 84.23536585365854,
+      "Assists_AVG": 26.87804878048781,
+      "Rebounds_AVG": 43.31707317073171,
+      "Attendance": 550.633
+    },
+    "Thunder": {
+      "2pointer_PCT_AVG": 43.9092987804878,
+      "3pointer_PCT_AVG": 33.90411585365853,
+      "FreeThrow_PCT_AVG": 72.44640243902438,
+      "Assists_AVG": 21.979268292682928,
+      "Rebounds_AVG": 45.53475609756097,
+      "Attendance": 600.699
+    },
+    "Timberwolves": {
+      "2pointer_PCT_AVG": 44.84324324324325,
+      "3pointer_PCT_AVG": 34.97702702702703,
+      "FreeThrow_PCT_AVG": 76.24054054054054,
+      "Assists_AVG": 25.56756756756757,
+      "Rebounds_AVG": 43.52702702702703,
+      "Attendance": 482.112
+    },
+    "Trail Blazers": {
+      "2pointer_PCT_AVG": 45.58375,
+      "3pointer_PCT_AVG": 38.79625,
+      "FreeThrow_PCT_AVG": 82.2775,
+      "Assists_AVG": 21.45,
+      "Rebounds_AVG": 44.45,
+      "Attendance": 608.634
+    },
+    "Warriors": {
+      "2pointer_PCT_AVG": 46.651143451143454,
+      "3pointer_PCT_AVG": 37.31874566874567,
+      "FreeThrow_PCT_AVG": 78.50131670131671,
+      "Assists_AVG": 27.396742896742897,
+      "Rebounds_AVG": 43.11088011088011,
+      "Attendance": 614.176
+    },
+    "Wizards": {
+      "2pointer_PCT_AVG": 47.08589285714285,
+      "3pointer_PCT_AVG": 35.22505952380952,
+      "FreeThrow_PCT_AVG": 77.00494047619047,
+      "Assists_AVG": 25.32261904761905,
+      "Rebounds_AVG": 45.33869047619048,
+      "Attendance": 532.702
+    }
+  }

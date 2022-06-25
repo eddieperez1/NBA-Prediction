@@ -1,0 +1,2512 @@
+{
+    "Aaron Gordon": {
+      "GAMES": 66,
+      "MIN": 30.727272727272727,
+      "ASSISTS": 2.5303030303030303,
+      "OFFENSIVE_REBOUNDS": 1.5606060606060606,
+      "PERSONAL_FOULS": 1.9242424242424243,
+      "2pointer_PROD": 57.69880624426079,
+      "3pointer_PROD": 3.7851239669421486,
+      "FreeThrow_PROD": 6.943755739210285
+    },
+    "Aaron Holiday": {
+      "GAMES": 43,
+      "MIN": 18.67441860465116,
+      "ASSISTS": 2.7906976744186047,
+      "OFFENSIVE_REBOUNDS": 0.3720930232558139,
+      "PERSONAL_FOULS": 1.7209302325581397,
+      "2pointer_PROD": 19.545700378583017,
+      "3pointer_PROD": 1.384532179556517,
+      "FreeThrow_PROD": 1.3931855056787452
+    },
+    "Aaron Wiggins": {
+      "GAMES": 35,
+      "MIN": 26,
+      "ASSISTS": 1.2285714285714286,
+      "OFFENSIVE_REBOUNDS": 1.1714285714285717,
+      "PERSONAL_FOULS": 2.1142857142857143,
+      "2pointer_PROD": 23.18775510204081,
+      "3pointer_PROD": 3.057142857142857,
+      "FreeThrow_PROD": 1.469387755102041
+    },
+    "Al Horford": {
+      "GAMES": 60,
+      "MIN": 28.183333333333334,
+      "ASSISTS": 3.2666666666666666,
+      "OFFENSIVE_REBOUNDS": 1.5666666666666669,
+      "PERSONAL_FOULS": 1.8833333333333333,
+      "2pointer_PROD": 32.931111111111115,
+      "3pointer_PROD": 5.310555555555555,
+      "FreeThrow_PROD": 1.5716666666666663
+    },
+    "Alec Burks": {
+      "GAMES": 69,
+      "MIN": 26.72463768115942,
+      "ASSISTS": 2.753623188405797,
+      "OFFENSIVE_REBOUNDS": 0.5652173913043478,
+      "PERSONAL_FOULS": 2.420289855072464,
+      "2pointer_PROD": 28.63768115942029,
+      "3pointer_PROD": 8.241335853812224,
+      "FreeThrow_PROD": 8.150388573829026
+    },
+    "Alex Caruso": {
+      "GAMES": 31,
+      "MIN": 27.967741935483872,
+      "ASSISTS": 4.290322580645161,
+      "OFFENSIVE_REBOUNDS": 0.7419354838709677,
+      "PERSONAL_FOULS": 2.677419354838709,
+      "2pointer_PROD": 20.104058272632678,
+      "3pointer_PROD": 3.262226847034339,
+      "FreeThrow_PROD": 4.359001040582727
+    },
+    "Amir Coffey": {
+      "GAMES": 51,
+      "MIN": 25.705882352941178,
+      "ASSISTS": 2.019607843137255,
+      "OFFENSIVE_REBOUNDS": 0.4705882352941176,
+      "PERSONAL_FOULS": 1.5098039215686274,
+      "2pointer_PROD": 25.525567089580928,
+      "3pointer_PROD": 6.499807766243753,
+      "FreeThrow_PROD": 3.3448673587081887
+    },
+    "Andrew Wiggins": {
+      "GAMES": 66,
+      "MIN": 30.5,
+      "ASSISTS": 2.303030303030303,
+      "OFFENSIVE_REBOUNDS": 1.0909090909090908,
+      "PERSONAL_FOULS": 2.060606060606061,
+      "2pointer_PROD": 87.06611570247934,
+      "3pointer_PROD": 11.65289256198347,
+      "FreeThrow_PROD": 5.785123966942149
+    },
+    "Anfernee Simons": {
+      "GAMES": 58,
+      "MIN": 29.24137931034483,
+      "ASSISTS": 3.913793103448276,
+      "OFFENSIVE_REBOUNDS": 0.4655172413793103,
+      "PERSONAL_FOULS": 1.9482758620689653,
+      "2pointer_PROD": 89.29696789536267,
+      "3pointer_PROD": 24.508323424494648,
+      "FreeThrow_PROD": 4.021997621878716
+    },
+    "Anthony Edwards": {
+      "GAMES": 63,
+      "MIN": 33.3968253968254,
+      "ASSISTS": 3.634920634920635,
+      "OFFENSIVE_REBOUNDS": 0.8571428571428571,
+      "PERSONAL_FOULS": 2.2857142857142856,
+      "2pointer_PROD": 128.87528344671202,
+      "3pointer_PROD": 23.41043083900227,
+      "FreeThrow_PROD": 11.63265306122449
+    },
+    "Austin Reaves": {
+      "GAMES": 49,
+      "MIN": 23.163265306122447,
+      "ASSISTS": 1.6122448979591837,
+      "OFFENSIVE_REBOUNDS": 0.6530612244897959,
+      "PERSONAL_FOULS": 1.673469387755102,
+      "2pointer_PROD": 12.800499791753436,
+      "3pointer_PROD": 3.123698458975426,
+      "FreeThrow_PROD": 1.7784256559766765
+    },
+    "Blake Griffin": {
+      "GAMES": 41,
+      "MIN": 20.29268292682927,
+      "ASSISTS": 2.365853658536585,
+      "OFFENSIVE_REBOUNDS": 1.2439024390243902,
+      "PERSONAL_FOULS": 2.024390243902439,
+      "2pointer_PROD": 20.70731707317073,
+      "3pointer_PROD": 2.493753718024985,
+      "FreeThrow_PROD": 1.88459250446163
+    },
+    "Bobby Portis": {
+      "GAMES": 59,
+      "MIN": 28.47457627118644,
+      "ASSISTS": 1.2203389830508475,
+      "OFFENSIVE_REBOUNDS": 2.542372881355932,
+      "PERSONAL_FOULS": 2.559322033898305,
+      "2pointer_PROD": 75.27032461936226,
+      "3pointer_PROD": 10.219477161735131,
+      "FreeThrow_PROD": 2.459063487503591
+    },
+    "Bogdan Bogdanovic": {
+      "GAMES": 50,
+      "MIN": 29.06,
+      "ASSISTS": 3.12,
+      "OFFENSIVE_REBOUNDS": 0.44,
+      "PERSONAL_FOULS": 2.14,
+      "2pointer_PROD": 63.16199999999999,
+      "3pointer_PROD": 18.1248,
+      "FreeThrow_PROD": 1.624
+    },
+    "Bojan Bogdanovic": {
+      "GAMES": 66,
+      "MIN": 30.151515151515152,
+      "ASSISTS": 1.696969696969697,
+      "OFFENSIVE_REBOUNDS": 0.8636363636363636,
+      "PERSONAL_FOULS": 1.5606060606060606,
+      "2pointer_PROD": 81.41414141414143,
+      "3pointer_PROD": 17.855371900826444,
+      "FreeThrow_PROD": 11.364554637281907
+    },
+    "Bones Hyland": {
+      "GAMES": 51,
+      "MIN": 20,
+      "ASSISTS": 2.6862745098039214,
+      "OFFENSIVE_REBOUNDS": 0.1764705882352941,
+      "PERSONAL_FOULS": 2.411764705882353,
+      "2pointer_PROD": 32.15340253748558,
+      "3pointer_PROD": 11.765474817377932,
+      "FreeThrow_PROD": 2.292964244521338
+    },
+    "Bradley Beal": {
+      "GAMES": 43,
+      "MIN": 34.76744186046512,
+      "ASSISTS": 6.465116279069767,
+      "OFFENSIVE_REBOUNDS": 0.8837209302325582,
+      "PERSONAL_FOULS": 2.395348837209302,
+      "2pointer_PROD": 157.12276906435912,
+      "3pointer_PROD": 7.995673336938887,
+      "FreeThrow_PROD": 21.144402379664687
+    },
+    "Brandon Boston Jr.": {
+      "GAMES": 33,
+      "MIN": 19.75757575757576,
+      "ASSISTS": 1.4242424242424243,
+      "OFFENSIVE_REBOUNDS": 0.5454545454545454,
+      "PERSONAL_FOULS": 1.181818181818182,
+      "2pointer_PROD": 29.62718089990817,
+      "3pointer_PROD": 3.0459136822773187,
+      "FreeThrow_PROD": 4.357208448117539
+    },
+    "Brandon Goodwin": {
+      "GAMES": 15,
+      "MIN": 22.066666666666663,
+      "ASSISTS": 4.733333333333333,
+      "OFFENSIVE_REBOUNDS": 0.6666666666666666,
+      "PERSONAL_FOULS": 2,
+      "2pointer_PROD": 22.4,
+      "3pointer_PROD": 3,
+      "FreeThrow_PROD": 1.2133333333333334
+    },
+    "Brandon Ingram": {
+      "GAMES": 50,
+      "MIN": 34.04,
+      "ASSISTS": 5.56,
+      "OFFENSIVE_REBOUNDS": 0.66,
+      "PERSONAL_FOULS": 2.2,
+      "2pointer_PROD": 156.2568,
+      "3pointer_PROD": 6.1632,
+      "FreeThrow_PROD": 25.852
+    },
+    "Brandon Knight": {
+      "GAMES": 2,
+      "MIN": 22,
+      "ASSISTS": 4,
+      "OFFENSIVE_REBOUNDS": 0,
+      "PERSONAL_FOULS": 2,
+      "2pointer_PROD": 32,
+      "3pointer_PROD": 10,
+      "FreeThrow_PROD": 16
+    },
+    "Brandon Williams": {
+      "GAMES": 7,
+      "MIN": 25.857142857142858,
+      "ASSISTS": 2.2857142857142856,
+      "OFFENSIVE_REBOUNDS": 0.7142857142857143,
+      "PERSONAL_FOULS": 2.4285714285714284,
+      "2pointer_PROD": 58.28571428571428,
+      "3pointer_PROD": 5.326530612244899,
+      "FreeThrow_PROD": 22.285714285714285
+    },
+    "Bryn Forbes": {
+      "GAMES": 60,
+      "MIN": 19.53333333333333,
+      "ASSISTS": 1.1333333333333333,
+      "OFFENSIVE_REBOUNDS": 0.15,
+      "PERSONAL_FOULS": 1.4833333333333334,
+      "2pointer_PROD": 34.760000000000005,
+      "3pointer_PROD": 9.310277777777776,
+      "FreeThrow_PROD": 1.7061111111111111
+    },
+    "Buddy Hield": {
+      "GAMES": 70,
+      "MIN": 29.7,
+      "ASSISTS": 2.6142857142857143,
+      "OFFENSIVE_REBOUNDS": 0.7428571428571429,
+      "PERSONAL_FOULS": 2.142857142857143,
+      "2pointer_PROD": 69.95938775510204,
+      "3pointer_PROD": 29.853061224489792,
+      "FreeThrow_PROD": 2.011836734693877
+    },
+    "CJ Elleby": {
+      "GAMES": 30,
+      "MIN": 23.933333333333334,
+      "ASSISTS": 1.6666666666666667,
+      "OFFENSIVE_REBOUNDS": 1.1333333333333333,
+      "PERSONAL_FOULS": 2.3666666666666667,
+      "2pointer_PROD": 15.573333333333332,
+      "3pointer_PROD": 1.7333333333333334,
+      "FreeThrow_PROD": 2.111111111111111
+    },
+    "CJ McCollum": {
+      "GAMES": 51,
+      "MIN": 33.98039215686274,
+      "ASSISTS": 4.96078431372549,
+      "OFFENSIVE_REBOUNDS": 0.9411764705882352,
+      "PERSONAL_FOULS": 2.019607843137255,
+      "2pointer_PROD": 160.28373702422147,
+      "3pointer_PROD": 24.23068050749712,
+      "FreeThrow_PROD": 3.657054978854287
+    },
+    "Cade Cunningham": {
+      "GAMES": 53,
+      "MIN": 31.867924528301888,
+      "ASSISTS": 5.226415094339623,
+      "OFFENSIVE_REBOUNDS": 0.9622641509433962,
+      "PERSONAL_FOULS": 3.1132075471698117,
+      "2pointer_PROD": 102.15735137059453,
+      "3pointer_PROD": 11.884656461374156,
+      "FreeThrow_PROD": 4.882876468494127
+    },
+    "Caleb Martin": {
+      "GAMES": 51,
+      "MIN": 23.47058823529412,
+      "ASSISTS": 1.3137254901960784,
+      "OFFENSIVE_REBOUNDS": 1.3137254901960784,
+      "PERSONAL_FOULS": 1.7647058823529411,
+      "2pointer_PROD": 28.566705113417918,
+      "3pointer_PROD": 2.9273356401384083,
+      "FreeThrow_PROD": 1.9069588619761628
+    },
+    "Cam Reddish": {
+      "GAMES": 46,
+      "MIN": 22.456521739130437,
+      "ASSISTS": 1.065217391304348,
+      "OFFENSIVE_REBOUNDS": 0.5652173913043478,
+      "PERSONAL_FOULS": 1.4782608695652173,
+      "2pointer_PROD": 37.18147448015122,
+      "3pointer_PROD": 6.907372400756144,
+      "FreeThrow_PROD": 4.854442344045369
+    },
+    "Cam Thomas": {
+      "GAMES": 43,
+      "MIN": 23.162790697674417,
+      "ASSISTS": 1.697674418604651,
+      "OFFENSIVE_REBOUNDS": 0.2790697674418604,
+      "PERSONAL_FOULS": 1.3255813953488371,
+      "2pointer_PROD": 50.93834505137912,
+      "3pointer_PROD": 4.067063277447269,
+      "FreeThrow_PROD": 3.965386695511087
+    },
+    "Cameron Johnson": {
+      "GAMES": 64,
+      "MIN": 25.203125,
+      "ASSISTS": 1.453125,
+      "OFFENSIVE_REBOUNDS": 0.59375,
+      "PERSONAL_FOULS": 1.703125,
+      "2pointer_PROD": 38.885498046875,
+      "3pointer_PROD": 15.044677734375,
+      "FreeThrow_PROD": 2.40673828125
+    },
+    "Cameron Payne": {
+      "GAMES": 49,
+      "MIN": 21.79591836734694,
+      "ASSISTS": 4.530612244897959,
+      "OFFENSIVE_REBOUNDS": 0.4489795918367347,
+      "PERSONAL_FOULS": 2.020408163265306,
+      "2pointer_PROD": 44.35735110370679,
+      "3pointer_PROD": 4.4968763015410245,
+      "FreeThrow_PROD": 2.5843398583923367
+    },
+    "Caris LeVert": {
+      "GAMES": 43,
+      "MIN": 30.627906976744185,
+      "ASSISTS": 4.372093023255814,
+      "OFFENSIVE_REBOUNDS": 0.7209302325581395,
+      "PERSONAL_FOULS": 2.2790697674418605,
+      "2pointer_PROD": 110.69767441860463,
+      "3pointer_PROD": 7.136289886425096,
+      "FreeThrow_PROD": 9.248242293131424
+    },
+    "Carmelo Anthony": {
+      "GAMES": 63,
+      "MIN": 25.603174603174605,
+      "ASSISTS": 0.9365079365079364,
+      "OFFENSIVE_REBOUNDS": 0.8253968253968254,
+      "PERSONAL_FOULS": 2.3492063492063493,
+      "2pointer_PROD": 48.00453514739229,
+      "3pointer_PROD": 12.789115646258503,
+      "FreeThrow_PROD": 4.493575207860921
+    },
+    "Cassius Stanley": {
+      "GAMES": 6,
+      "MIN": 22.33333333333333,
+      "ASSISTS": 0.5,
+      "OFFENSIVE_REBOUNDS": 0.8333333333333334,
+      "PERSONAL_FOULS": 2.1666666666666665,
+      "2pointer_PROD": 16.25,
+      "3pointer_PROD": 1.6666666666666663,
+      "FreeThrow_PROD": 2.777777777777778
+    },
+    "Cedi Osman": {
+      "GAMES": 56,
+      "MIN": 23.214285714285715,
+      "ASSISTS": 2.125,
+      "OFFENSIVE_REBOUNDS": 0.3571428571428571,
+      "PERSONAL_FOULS": 2.0535714285714284,
+      "2pointer_PROD": 38.16964285714285,
+      "3pointer_PROD": 12.589285714285714,
+      "FreeThrow_PROD": 2.690051020408163
+    },
+    "Chasson Randle": {
+      "GAMES": 2,
+      "MIN": 13.5,
+      "ASSISTS": 0.5,
+      "OFFENSIVE_REBOUNDS": 0,
+      "PERSONAL_FOULS": 1,
+      "2pointer_PROD": 9,
+      "3pointer_PROD": 2.5,
+      "FreeThrow_PROD": 3.75
+    },
+    "Chaundee Brown Jr.": {
+      "GAMES": 7,
+      "MIN": 20.571428571428573,
+      "ASSISTS": 0.5714285714285714,
+      "OFFENSIVE_REBOUNDS": 0.5714285714285714,
+      "PERSONAL_FOULS": 1.1428571428571428,
+      "2pointer_PROD": 22.857142857142858,
+      "3pointer_PROD": 5.714285714285714,
+      "FreeThrow_PROD": 1.7959183673469383
+    },
+    "Chimezie Metu": {
+      "GAMES": 44,
+      "MIN": 22.204545454545453,
+      "ASSISTS": 1.181818181818182,
+      "OFFENSIVE_REBOUNDS": 0.6818181818181818,
+      "PERSONAL_FOULS": 1.5,
+      "2pointer_PROD": 27.84090909090909,
+      "3pointer_PROD": 3.21900826446281,
+      "FreeThrow_PROD": 2.0170454545454546
+    },
+    "Chris Boucher": {
+      "GAMES": 57,
+      "MIN": 21.75438596491228,
+      "ASSISTS": 0.3157894736842105,
+      "OFFENSIVE_REBOUNDS": 2.3859649122807016,
+      "PERSONAL_FOULS": 2.4035087719298245,
+      "2pointer_PROD": 25.61218836565097,
+      "3pointer_PROD": 2.363804247460757,
+      "FreeThrow_PROD": 5.355493998153278
+    },
+    "Chris Duarte": {
+      "GAMES": 57,
+      "MIN": 27.82456140350877,
+      "ASSISTS": 2.192982456140351,
+      "OFFENSIVE_REBOUNDS": 0.7543859649122807,
+      "PERSONAL_FOULS": 1.7543859649122806,
+      "2pointer_PROD": 58.47768544167436,
+      "3pointer_PROD": 8.257617728531857,
+      "FreeThrow_PROD": 3.47953216374269
+    },
+    "Chris Paul": {
+      "GAMES": 60,
+      "MIN": 32.166666666666664,
+      "ASSISTS": 10.583333333333334,
+      "OFFENSIVE_REBOUNDS": 0.2666666666666666,
+      "PERSONAL_FOULS": 2.05,
+      "2pointer_PROD": 63.83611111111111,
+      "3pointer_PROD": 3.325,
+      "FreeThrow_PROD": 8.016666666666667
+    },
+    "Christian Wood": {
+      "GAMES": 62,
+      "MIN": 31.161290322580644,
+      "ASSISTS": 2.290322580645161,
+      "OFFENSIVE_REBOUNDS": 1.7903225806451613,
+      "PERSONAL_FOULS": 2.6129032258064515,
+      "2pointer_PROD": 88.95941727367325,
+      "3pointer_PROD": 9.034859521331946,
+      "FreeThrow_PROD": 15.782778355879293
+    },
+    "Coby White": {
+      "GAMES": 44,
+      "MIN": 29.09090909090909,
+      "ASSISTS": 3.2045454545454546,
+      "OFFENSIVE_REBOUNDS": 0.3636363636363636,
+      "PERSONAL_FOULS": 2.2954545454545454,
+      "2pointer_PROD": 58.50878099173554,
+      "3pointer_PROD": 15.284090909090908,
+      "FreeThrow_PROD": 2.733987603305785
+    },
+    "Cody Martin": {
+      "GAMES": 61,
+      "MIN": 26.21311475409836,
+      "ASSISTS": 2.459016393442623,
+      "OFFENSIVE_REBOUNDS": 1.1311475409836065,
+      "PERSONAL_FOULS": 1.819672131147541,
+      "2pointer_PROD": 19.0327868852459,
+      "3pointer_PROD": 2.3864552539639883,
+      "FreeThrow_PROD": 1.9376511690405804
+    },
+    "Cole Anthony": {
+      "GAMES": 58,
+      "MIN": 31.655172413793103,
+      "ASSISTS": 5.603448275862069,
+      "OFFENSIVE_REBOUNDS": 0.5172413793103449,
+      "PERSONAL_FOULS": 2.603448275862069,
+      "2pointer_PROD": 83.25,
+      "3pointer_PROD": 13.01961950059453,
+      "FreeThrow_PROD": 12.30410225921522
+    },
+    "Collin Sexton": {
+      "GAMES": 14,
+      "MIN": 27.571428571428573,
+      "ASSISTS": 2.071428571428572,
+      "OFFENSIVE_REBOUNDS": 1,
+      "PERSONAL_FOULS": 1.8571428571428568,
+      "2pointer_PROD": 80.3265306122449,
+      "3pointer_PROD": 5.204081632653061,
+      "FreeThrow_PROD": 10.275510204081632
+    },
+    "Cory Joseph": {
+      "GAMES": 58,
+      "MIN": 24.53448275862069,
+      "ASSISTS": 3.8620689655172415,
+      "OFFENSIVE_REBOUNDS": 0.4310344827586206,
+      "PERSONAL_FOULS": 2.2413793103448274,
+      "2pointer_PROD": 17.77229488703924,
+      "3pointer_PROD": 2.1254458977407844,
+      "FreeThrow_PROD": 2.422116527942925
+    },
+    "D'Angelo Russell": {
+      "GAMES": 57,
+      "MIN": 31.2280701754386,
+      "ASSISTS": 7.140350877192983,
+      "OFFENSIVE_REBOUNDS": 0.3859649122807017,
+      "PERSONAL_FOULS": 2.0701754385964914,
+      "2pointer_PROD": 96.82302246845184,
+      "3pointer_PROD": 23.471837488457982,
+      "FreeThrow_PROD": 11.31117266851339
+    },
+    "D.J. Augustin": {
+      "GAMES": 35,
+      "MIN": 16.02857142857143,
+      "ASSISTS": 2.257142857142857,
+      "OFFENSIVE_REBOUNDS": 0.2571428571428571,
+      "PERSONAL_FOULS": 0.5142857142857142,
+      "2pointer_PROD": 7.794285714285714,
+      "3pointer_PROD": 3.9151020408163264,
+      "FreeThrow_PROD": 1.2685714285714285
+    },
+    "Daishen Nix": {
+      "GAMES": 3,
+      "MIN": 19.33333333333333,
+      "ASSISTS": 2.6666666666666665,
+      "OFFENSIVE_REBOUNDS": 0,
+      "PERSONAL_FOULS": 1.3333333333333333,
+      "2pointer_PROD": 26.666666666666668,
+      "3pointer_PROD": 4,
+      "FreeThrow_PROD": 1.3333333333333333
+    },
+    "Damian Lillard": {
+      "GAMES": 31,
+      "MIN": 34.96774193548387,
+      "ASSISTS": 6.967741935483871,
+      "OFFENSIVE_REBOUNDS": 0.4516129032258064,
+      "PERSONAL_FOULS": 1.2258064516129032,
+      "2pointer_PROD": 138.44224765868887,
+      "3pointer_PROD": 30.287200832466176,
+      "FreeThrow_PROD": 31.18626430801249
+    },
+    "Damion Lee": {
+      "GAMES": 50,
+      "MIN": 21.04,
+      "ASSISTS": 1.06,
+      "OFFENSIVE_REBOUNDS": 0.46,
+      "PERSONAL_FOULS": 1.5,
+      "2pointer_PROD": 22.4856,
+      "3pointer_PROD": 4.0592,
+      "FreeThrow_PROD": 1.224
+    },
+    "Daniel Theis": {
+      "GAMES": 33,
+      "MIN": 21.03030303030303,
+      "ASSISTS": 0.7878787878787878,
+      "OFFENSIVE_REBOUNDS": 1.0909090909090908,
+      "PERSONAL_FOULS": 2.575757575757576,
+      "2pointer_PROD": 19.95684113865932,
+      "3pointer_PROD": 2.0431588613406797,
+      "FreeThrow_PROD": 1.4545454545454546
+    },
+    "Danilo Gallinari": {
+      "GAMES": 56,
+      "MIN": 24.196428571428573,
+      "ASSISTS": 1.3571428571428572,
+      "OFFENSIVE_REBOUNDS": 0.5714285714285714,
+      "PERSONAL_FOULS": 1.5178571428571428,
+      "2pointer_PROD": 30.205357142857142,
+      "3pointer_PROD": 6.90625,
+      "FreeThrow_PROD": 6.234375
+    },
+    "Danuel House Jr.": {
+      "GAMES": 34,
+      "MIN": 17.41176470588235,
+      "ASSISTS": 1.3235294117647058,
+      "OFFENSIVE_REBOUNDS": 0.5588235294117647,
+      "PERSONAL_FOULS": 1.2058823529411764,
+      "2pointer_PROD": 9.190311418685122,
+      "3pointer_PROD": 2.463667820069204,
+      "FreeThrow_PROD": 1.3235294117647058
+    },
+    "Darius Bazley": {
+      "GAMES": 64,
+      "MIN": 26.828125,
+      "ASSISTS": 1.375,
+      "OFFENSIVE_REBOUNDS": 1.03125,
+      "PERSONAL_FOULS": 0.921875,
+      "2pointer_PROD": 31.171875,
+      "3pointer_PROD": 3.745849609375,
+      "FreeThrow_PROD": 3.223876953125
+    },
+    "Darius Garland": {
+      "GAMES": 56,
+      "MIN": 34.160714285714285,
+      "ASSISTS": 8.017857142857142,
+      "OFFENSIVE_REBOUNDS": 0.5178571428571429,
+      "PERSONAL_FOULS": 1.7857142857142858,
+      "2pointer_PROD": 125.89158163265306,
+      "3pointer_PROD": 16.950573979591834,
+      "FreeThrow_PROD": 7.739795918367347
+    },
+    "David Duke Jr.": {
+      "GAMES": 13,
+      "MIN": 23.692307692307693,
+      "ASSISTS": 1.3076923076923077,
+      "OFFENSIVE_REBOUNDS": 2.1538461538461537,
+      "PERSONAL_FOULS": 2.3846153846153846,
+      "2pointer_PROD": 24.378698224852076,
+      "3pointer_PROD": 1.6094674556213018,
+      "FreeThrow_PROD": 3.076923076923077
+    },
+    "De'Aaron Fox": {
+      "GAMES": 61,
+      "MIN": 34.09836065573771,
+      "ASSISTS": 5.475409836065574,
+      "OFFENSIVE_REBOUNDS": 0.4262295081967213,
+      "PERSONAL_FOULS": 2.8852459016393444,
+      "2pointer_PROD": 151.82880945982262,
+      "3pointer_PROD": 4.904595538833647,
+      "FreeThrow_PROD": 25.401236226820743
+    },
+    "De'Andre Hunter": {
+      "GAMES": 40,
+      "MIN": 28.95,
+      "ASSISTS": 1.3,
+      "OFFENSIVE_REBOUNDS": 0.525,
+      "PERSONAL_FOULS": 3.025,
+      "2pointer_PROD": 49.966875,
+      "3pointer_PROD": 5.165625,
+      "FreeThrow_PROD": 6.824999999999999
+    },
+    "De'Anthony Melton": {
+      "GAMES": 63,
+      "MIN": 21.952380952380956,
+      "ASSISTS": 2.7301587301587302,
+      "OFFENSIVE_REBOUNDS": 0.873015873015873,
+      "PERSONAL_FOULS": 1.6666666666666667,
+      "2pointer_PROD": 33.72033257747544,
+      "3pointer_PROD": 7.811287477954144,
+      "FreeThrow_PROD": 1.8208616780045352
+    },
+    "DeMar DeRozan": {
+      "GAMES": 67,
+      "MIN": 35.16417910447761,
+      "ASSISTS": 4.970149253731344,
+      "OFFENSIVE_REBOUNDS": 0.8059701492537313,
+      "PERSONAL_FOULS": 2.1343283582089554,
+      "2pointer_PROD": 200.44731566050345,
+      "3pointer_PROD": 1.1877923813766986,
+      "FreeThrow_PROD": 51.39674760525729
+    },
+    "DeMarcus Cousins": {
+      "GAMES": 32,
+      "MIN": 15.53125,
+      "ASSISTS": 1.40625,
+      "OFFENSIVE_REBOUNDS": 1.59375,
+      "PERSONAL_FOULS": 2.875,
+      "2pointer_PROD": 22.810546875,
+      "3pointer_PROD": 2.001953125,
+      "FreeThrow_PROD": 6.84375
+    },
+    "Dejounte Murray": {
+      "GAMES": 63,
+      "MIN": 33.57142857142857,
+      "ASSISTS": 8.984126984126984,
+      "OFFENSIVE_REBOUNDS": 1.1746031746031746,
+      "PERSONAL_FOULS": 2,
+      "2pointer_PROD": 149.3764172335601,
+      "3pointer_PROD": 5.079365079365079,
+      "FreeThrow_PROD": 7.682539682539683
+    },
+    "Deni Avdija": {
+      "GAMES": 66,
+      "MIN": 23.151515151515152,
+      "ASSISTS": 1.681818181818182,
+      "OFFENSIVE_REBOUNDS": 0.6363636363636364,
+      "PERSONAL_FOULS": 2.303030303030303,
+      "2pointer_PROD": 17.27272727272727,
+      "3pointer_PROD": 2.476584022038568,
+      "FreeThrow_PROD": 1.7217630853994492
+    },
+    "Dennis Schroder": {
+      "GAMES": 59,
+      "MIN": 28.52542372881356,
+      "ASSISTS": 4.677966101694915,
+      "OFFENSIVE_REBOUNDS": 0.576271186440678,
+      "PERSONAL_FOULS": 2.457627118644068,
+      "2pointer_PROD": 57.01292731973571,
+      "3pointer_PROD": 4.999712726228095,
+      "FreeThrow_PROD": 7.122953174375179
+    },
+    "Derrick Rose": {
+      "GAMES": 30,
+      "MIN": 24,
+      "ASSISTS": 4.166666666666667,
+      "OFFENSIVE_REBOUNDS": 0.7666666666666667,
+      "PERSONAL_FOULS": 0.6,
+      "2pointer_PROD": 51.55555555555555,
+      "3pointer_PROD": 5.3,
+      "FreeThrow_PROD": 1.913333333333333
+    },
+    "Derrick Walton Jr.": {
+      "GAMES": 3,
+      "MIN": 35.666666666666664,
+      "ASSISTS": 7,
+      "OFFENSIVE_REBOUNDS": 0.6666666666666666,
+      "PERSONAL_FOULS": 2.6666666666666665,
+      "2pointer_PROD": 17.333333333333332,
+      "3pointer_PROD": 4.333333333333333,
+      "FreeThrow_PROD": 1.7777777777777777
+    },
+    "Derrick White": {
+      "GAMES": 66,
+      "MIN": 28.666666666666668,
+      "ASSISTS": 4.984848484848484,
+      "OFFENSIVE_REBOUNDS": 0.5454545454545454,
+      "PERSONAL_FOULS": 2.303030303030303,
+      "2pointer_PROD": 52.280303030303024,
+      "3pointer_PROD": 7.837006427915519,
+      "FreeThrow_PROD": 8.195592286501377
+    },
+    "Desmond Bane": {
+      "GAMES": 69,
+      "MIN": 29.130434782608692,
+      "ASSISTS": 2.5942028985507246,
+      "OFFENSIVE_REBOUNDS": 0.5942028985507246,
+      "PERSONAL_FOULS": 2.5942028985507246,
+      "2pointer_PROD": 92.06574249107332,
+      "3pointer_PROD": 19.55471539592523,
+      "FreeThrow_PROD": 2.890989287964713
+    },
+    "Devin Booker": {
+      "GAMES": 57,
+      "MIN": 33.6140350877193,
+      "ASSISTS": 4.701754385964913,
+      "OFFENSIVE_REBOUNDS": 0.7543859649122807,
+      "PERSONAL_FOULS": 2.508771929824561,
+      "2pointer_PROD": 188.44690674053555,
+      "3pointer_PROD": 18.72976300400123,
+      "FreeThrow_PROD": 21.178208679593723
+    },
+    "Devin Vassell": {
+      "GAMES": 63,
+      "MIN": 25.904761904761905,
+      "ASSISTS": 1.7301587301587302,
+      "OFFENSIVE_REBOUNDS": 0.6825396825396826,
+      "PERSONAL_FOULS": 2.111111111111111,
+      "2pointer_PROD": 47.29755605946082,
+      "3pointer_PROD": 8.813303099017384,
+      "FreeThrow_PROD": 1.1373141849332329
+    },
+    "Devonte' Graham": {
+      "GAMES": 67,
+      "MIN": 28.85074626865672,
+      "ASSISTS": 4.2388059701492535,
+      "OFFENSIVE_REBOUNDS": 0.5074626865671642,
+      "PERSONAL_FOULS": 1.373134328358209,
+      "2pointer_PROD": 45.32323457340165,
+      "3pointer_PROD": 20.690576965916687,
+      "FreeThrow_PROD": 2.794831811093785
+    },
+    "Dillon Brooks": {
+      "GAMES": 20,
+      "MIN": 28.45,
+      "ASSISTS": 2.85,
+      "OFFENSIVE_REBOUNDS": 0.8,
+      "PERSONAL_FOULS": 3.35,
+      "2pointer_PROD": 121.32,
+      "3pointer_PROD": 8.3325,
+      "FreeThrow_PROD": 11.52
+    },
+    "Domantas Sabonis": {
+      "GAMES": 62,
+      "MIN": 33.17741935483871,
+      "ASSISTS": 5.048387096774194,
+      "OFFENSIVE_REBOUNDS": 3.2419354838709675,
+      "PERSONAL_FOULS": 3.2096774193548385,
+      "2pointer_PROD": 85.86160249739854,
+      "3pointer_PROD": 1.3631633714880331,
+      "FreeThrow_PROD": 17.36264308012487
+    },
+    "Donovan Mitchell": {
+      "GAMES": 58,
+      "MIN": 32.44827586206897,
+      "ASSISTS": 5.310344827586207,
+      "OFFENSIVE_REBOUNDS": 0.8103448275862069,
+      "PERSONAL_FOULS": 2.4827586206896552,
+      "2pointer_PROD": 179.34542211652794,
+      "3pointer_PROD": 31.114149821640908,
+      "FreeThrow_PROD": 15.198870392390011
+    },
+    "Donte DiVincenzo": {
+      "GAMES": 29,
+      "MIN": 20.89655172413793,
+      "ASSISTS": 2.2758620689655173,
+      "OFFENSIVE_REBOUNDS": 0.9655172413793104,
+      "PERSONAL_FOULS": 1.5862068965517242,
+      "2pointer_PROD": 16.656361474435197,
+      "3pointer_PROD": 6.581450653983352,
+      "FreeThrow_PROD": 2.187871581450654
+    },
+    "Duane Washington Jr.": {
+      "GAMES": 30,
+      "MIN": 22.53333333333333,
+      "ASSISTS": 2.2,
+      "OFFENSIVE_REBOUNDS": 0.1,
+      "PERSONAL_FOULS": 1.6666666666666667,
+      "2pointer_PROD": 39.72666666666667,
+      "3pointer_PROD": 9.288888888888888,
+      "FreeThrow_PROD": 1.4811111111111113
+    },
+    "Elijah Bryant": {
+      "GAMES": 4,
+      "MIN": 19.5,
+      "ASSISTS": 1,
+      "OFFENSIVE_REBOUNDS": 1,
+      "PERSONAL_FOULS": 2,
+      "2pointer_PROD": 30,
+      "3pointer_PROD": 5.25,
+      "FreeThrow_PROD": 1.25
+    },
+    "Eric Bledsoe": {
+      "GAMES": 56,
+      "MIN": 24.714285714285715,
+      "ASSISTS": 4.196428571428571,
+      "OFFENSIVE_REBOUNDS": 0.5178571428571429,
+      "PERSONAL_FOULS": 1.6071428571428572,
+      "2pointer_PROD": 30.484693877551024,
+      "3pointer_PROD": 2.6670918367346936,
+      "FreeThrow_PROD": 3.5497448979591835
+    },
+    "Eric Gordon": {
+      "GAMES": 55,
+      "MIN": 28.98181818181818,
+      "ASSISTS": 2.763636363636364,
+      "OFFENSIVE_REBOUNDS": 0.2727272727272727,
+      "PERSONAL_FOULS": 1.1272727272727272,
+      "2pointer_PROD": 47.722975206611565,
+      "3pointer_PROD": 11.583471074380164,
+      "FreeThrow_PROD": 4.685950413223141
+    },
+    "Eric Paschall": {
+      "GAMES": 35,
+      "MIN": 17.057142857142857,
+      "ASSISTS": 0.8571428571428571,
+      "OFFENSIVE_REBOUNDS": 0.6571428571428571,
+      "PERSONAL_FOULS": 1.1428571428571428,
+      "2pointer_PROD": 14.426122448979587,
+      "3pointer_PROD": 2.742857142857143,
+      "FreeThrow_PROD": 2.789387755102041
+    },
+    "Evan Fournier": {
+      "GAMES": 69,
+      "MIN": 28.869565217391305,
+      "ASSISTS": 1.7826086956521738,
+      "OFFENSIVE_REBOUNDS": 0.463768115942029,
+      "PERSONAL_FOULS": 2.0869565217391304,
+      "2pointer_PROD": 59.5370720436883,
+      "3pointer_PROD": 21.293005671077506,
+      "FreeThrow_PROD": 1.7920604914933838
+    },
+    "Facundo Campazzo": {
+      "GAMES": 53,
+      "MIN": 22.52830188679245,
+      "ASSISTS": 4.2075471698113205,
+      "OFFENSIVE_REBOUNDS": 0.3962264150943396,
+      "PERSONAL_FOULS": 2.358490566037736,
+      "2pointer_PROD": 11.447134211463156,
+      "3pointer_PROD": 4.095763616945532,
+      "FreeThrow_PROD": 1.6721253114987538
+    },
+    "Frank Jackson": {
+      "GAMES": 46,
+      "MIN": 22.41304347826087,
+      "ASSISTS": 0.9565217391304348,
+      "OFFENSIVE_REBOUNDS": 0.391304347826087,
+      "PERSONAL_FOULS": 1.7608695652173914,
+      "2pointer_PROD": 35.96880907372401,
+      "3pointer_PROD": 9.923913043478262,
+      "FreeThrow_PROD": 3.18241965973535
+    },
+    "Frank Kaminsky": {
+      "GAMES": 9,
+      "MIN": 23.33333333333333,
+      "ASSISTS": 2.111111111111111,
+      "OFFENSIVE_REBOUNDS": 1,
+      "PERSONAL_FOULS": 1.8888888888888888,
+      "2pointer_PROD": 39.481481481481474,
+      "3pointer_PROD": 1.8148148148148149,
+      "FreeThrow_PROD": 4.444444444444445
+    },
+    "Franz Wagner": {
+      "GAMES": 72,
+      "MIN": 30.63888888888889,
+      "ASSISTS": 2.9166666666666665,
+      "OFFENSIVE_REBOUNDS": 1.0138888888888888,
+      "PERSONAL_FOULS": 2.125,
+      "2pointer_PROD": 68.75,
+      "3pointer_PROD": 4.614197530864197,
+      "FreeThrow_PROD": 5.90625
+    },
+    "Fred VanVleet": {
+      "GAMES": 58,
+      "MIN": 36.63793103448276,
+      "ASSISTS": 6.672413793103448,
+      "OFFENSIVE_REBOUNDS": 0.6896551724137931,
+      "PERSONAL_FOULS": 2.327586206896552,
+      "2pointer_PROD": 116.32372175980976,
+      "3pointer_PROD": 37.62187871581451,
+      "FreeThrow_PROD": 9.638525564803803
+    },
+    "Furkan Korkmaz": {
+      "GAMES": 57,
+      "MIN": 23.649122807017545,
+      "ASSISTS": 2.1403508771929824,
+      "OFFENSIVE_REBOUNDS": 0.3684210526315789,
+      "PERSONAL_FOULS": 0.9298245614035088,
+      "2pointer_PROD": 27.33918128654971,
+      "3pointer_PROD": 6.327793167128347,
+      "FreeThrow_PROD": 1.6909818405663284
+    },
+    "Garrison Mathews": {
+      "GAMES": 51,
+      "MIN": 26.50980392156863,
+      "ASSISTS": 0.9803921568627452,
+      "OFFENSIVE_REBOUNDS": 0.5098039215686274,
+      "PERSONAL_FOULS": 2.784313725490196,
+      "2pointer_PROD": 23.359861591695505,
+      "3pointer_PROD": 14.484429065743942,
+      "FreeThrow_PROD": 7.2941176470588225
+    },
+    "Gary Harris": {
+      "GAMES": 61,
+      "MIN": 27.950819672131143,
+      "ASSISTS": 1.819672131147541,
+      "OFFENSIVE_REBOUNDS": 0.5573770491803278,
+      "PERSONAL_FOULS": 1.7377049180327868,
+      "2pointer_PROD": 36.39344262295082,
+      "3pointer_PROD": 8.988981456597688,
+      "FreeThrow_PROD": 1.9320075248589093
+    },
+    "Gary Trent Jr.": {
+      "GAMES": 62,
+      "MIN": 33.38709677419355,
+      "ASSISTS": 1.9193548387096773,
+      "OFFENSIVE_REBOUNDS": 0.3387096774193548,
+      "PERSONAL_FOULS": 2.048387096774193,
+      "2pointer_PROD": 96.38397502601455,
+      "3pointer_PROD": 22.75754422476587,
+      "FreeThrow_PROD": 6.03876170655567
+    },
+    "George Hill": {
+      "GAMES": 44,
+      "MIN": 24.59090909090909,
+      "ASSISTS": 2.386363636363636,
+      "OFFENSIVE_REBOUNDS": 0.8409090909090909,
+      "PERSONAL_FOULS": 1.3409090909090908,
+      "2pointer_PROD": 13.761880165289256,
+      "3pointer_PROD": 2.3889462809917354,
+      "FreeThrow_PROD": 1.5604338842975207
+    },
+    "Giannis Antetokounmpo": {
+      "GAMES": 60,
+      "MIN": 31.73333333333333,
+      "ASSISTS": 5.866666666666666,
+      "OFFENSIVE_REBOUNDS": 1.95,
+      "PERSONAL_FOULS": 3.083333333333333,
+      "2pointer_PROD": 179.5661111111111,
+      "3pointer_PROD": 4.316666666666667,
+      "FreeThrow_PROD": 89.65305555555557
+    },
+    "Goga Bitadze": {
+      "GAMES": 21,
+      "MIN": 20.476190476190474,
+      "ASSISTS": 1.6666666666666667,
+      "OFFENSIVE_REBOUNDS": 2.4285714285714284,
+      "PERSONAL_FOULS": 2.857142857142857,
+      "2pointer_PROD": 29.750566893424036,
+      "3pointer_PROD": 2.5419501133786846,
+      "FreeThrow_PROD": 5.256235827664399
+    },
+    "Goran Dragic": {
+      "GAMES": 16,
+      "MIN": 18.875,
+      "ASSISTS": 2.8125,
+      "OFFENSIVE_REBOUNDS": 0.625,
+      "PERSONAL_FOULS": 1.625,
+      "2pointer_PROD": 16.453125,
+      "3pointer_PROD": 3.12109375,
+      "FreeThrow_PROD": 2.515625
+    },
+    "Gordon Hayward": {
+      "GAMES": 48,
+      "MIN": 31.9375,
+      "ASSISTS": 3.6458333333333335,
+      "OFFENSIVE_REBOUNDS": 0.8333333333333334,
+      "PERSONAL_FOULS": 1.8125,
+      "2pointer_PROD": 75.54036458333333,
+      "3pointer_PROD": 8.042534722222223,
+      "FreeThrow_PROD": 8.203125
+    },
+    "Grant Williams": {
+      "GAMES": 63,
+      "MIN": 23.96825396825397,
+      "ASSISTS": 1.1587301587301588,
+      "OFFENSIVE_REBOUNDS": 0.8253968253968254,
+      "PERSONAL_FOULS": 2.380952380952381,
+      "2pointer_PROD": 14.73015873015873,
+      "3pointer_PROD": 5.289745527840766,
+      "FreeThrow_PROD": 1.146384479717813
+    },
+    "Grayson Allen": {
+      "GAMES": 60,
+      "MIN": 26.9,
+      "ASSISTS": 1.5333333333333334,
+      "OFFENSIVE_REBOUNDS": 0.4666666666666667,
+      "PERSONAL_FOULS": 1.4333333333333331,
+      "2pointer_PROD": 35.511111111111106,
+      "3pointer_PROD": 15.625,
+      "FreeThrow_PROD": 1.011111111111111
+    },
+    "Harrison Barnes": {
+      "GAMES": 68,
+      "MIN": 33.044117647058826,
+      "ASSISTS": 2.4705882352941178,
+      "OFFENSIVE_REBOUNDS": 1.1029411764705883,
+      "PERSONAL_FOULS": 1.2941176470588236,
+      "2pointer_PROD": 57.90441176470589,
+      "3pointer_PROD": 9.818771626297575,
+      "FreeThrow_PROD": 25.968858131487888
+    },
+    "Herbert Jones": {
+      "GAMES": 67,
+      "MIN": 29.35820895522388,
+      "ASSISTS": 2.208955223880597,
+      "OFFENSIVE_REBOUNDS": 1.3432835820895523,
+      "PERSONAL_FOULS": 3.1194029850746268,
+      "2pointer_PROD": 26.03497438182223,
+      "3pointer_PROD": 1.215415460013366,
+      "FreeThrow_PROD": 3.373134328358209
+    },
+    "Immanuel Quickley": {
+      "GAMES": 62,
+      "MIN": 22.241935483870968,
+      "ASSISTS": 3.2419354838709675,
+      "OFFENSIVE_REBOUNDS": 0.4516129032258064,
+      "PERSONAL_FOULS": 2.3548387096774195,
+      "2pointer_PROD": 30.642299687825183,
+      "3pointer_PROD": 8.465660770031217,
+      "FreeThrow_PROD": 3.7096774193548394
+    },
+    "Isaac Okoro": {
+      "GAMES": 56,
+      "MIN": 28.071428571428573,
+      "ASSISTS": 1.75,
+      "OFFENSIVE_REBOUNDS": 1.0892857142857142,
+      "PERSONAL_FOULS": 2.571428571428572,
+      "2pointer_PROD": 20.33896683673469,
+      "3pointer_PROD": 1.8214285714285712,
+      "FreeThrow_PROD": 4.251275510204082
+    },
+    "Isaiah Joe": {
+      "GAMES": 27,
+      "MIN": 18.444444444444443,
+      "ASSISTS": 1.037037037037037,
+      "OFFENSIVE_REBOUNDS": 0.2222222222222222,
+      "PERSONAL_FOULS": 1.4814814814814814,
+      "2pointer_PROD": 13.519890260631,
+      "3pointer_PROD": 7.445816186556927,
+      "FreeThrow_PROD": 1.2331961591220852
+    },
+    "Isaiah Roby": {
+      "GAMES": 24,
+      "MIN": 21.58333333333333,
+      "ASSISTS": 1.5,
+      "OFFENSIVE_REBOUNDS": 1.5833333333333333,
+      "PERSONAL_FOULS": 2.625,
+      "2pointer_PROD": 28.069444444444443,
+      "3pointer_PROD": 1.859375,
+      "FreeThrow_PROD": 4.84375
+    },
+    "Isaiah Thomas": {
+      "GAMES": 8,
+      "MIN": 19.125,
+      "ASSISTS": 1.875,
+      "OFFENSIVE_REBOUNDS": 0.25,
+      "PERSONAL_FOULS": 1.625,
+      "2pointer_PROD": 27.34375,
+      "3pointer_PROD": 6.703125,
+      "FreeThrow_PROD": 2.40625
+    },
+    "Ja Morant": {
+      "GAMES": 57,
+      "MIN": 32.59649122807018,
+      "ASSISTS": 6.649122807017544,
+      "OFFENSIVE_REBOUNDS": 1.3157894736842106,
+      "PERSONAL_FOULS": 1.5263157894736843,
+      "2pointer_PROD": 211.7463835026162,
+      "3pointer_PROD": 7.042166820560172,
+      "FreeThrow_PROD": 41.13911972914743
+    },
+    "JaMychal Green": {
+      "GAMES": 51,
+      "MIN": 16.372549019607842,
+      "ASSISTS": 0.9411764705882352,
+      "OFFENSIVE_REBOUNDS": 1.2549019607843137,
+      "PERSONAL_FOULS": 2.4705882352941178,
+      "2pointer_PROD": 14.377162629757786,
+      "3pointer_PROD": 1.3148788927335642,
+      "FreeThrow_PROD": 2.5163398692810457
+    },
+    "JaQuori McLaughlin": {
+      "GAMES": 2,
+      "MIN": 12,
+      "ASSISTS": 0.5,
+      "OFFENSIVE_REBOUNDS": 0,
+      "PERSONAL_FOULS": 1,
+      "2pointer_PROD": 5,
+      "3pointer_PROD": 2,
+      "FreeThrow_PROD": 3
+    },
+    "Jae Crowder": {
+      "GAMES": 60,
+      "MIN": 27.516666666666666,
+      "ASSISTS": 1.7333333333333334,
+      "OFFENSIVE_REBOUNDS": 0.45,
+      "PERSONAL_FOULS": 2.45,
+      "2pointer_PROD": 26.813888888888886,
+      "3pointer_PROD": 9.808333333333332,
+      "FreeThrow_PROD": 1.6055555555555556
+    },
+    "Jae'Sean Tate": {
+      "GAMES": 66,
+      "MIN": 26.303030303030305,
+      "ASSISTS": 2.9696969696969697,
+      "OFFENSIVE_REBOUNDS": 1.621212121212121,
+      "PERSONAL_FOULS": 3.6818181818181817,
+      "2pointer_PROD": 44.40771349862259,
+      "3pointer_PROD": 1.9513314967860425,
+      "FreeThrow_PROD": 4.628099173553719
+    },
+    "Jahmi'us Ramsey": {
+      "GAMES": 6,
+      "MIN": 17.166666666666668,
+      "ASSISTS": 0.5,
+      "OFFENSIVE_REBOUNDS": 0.6666666666666666,
+      "PERSONAL_FOULS": 1.1666666666666667,
+      "2pointer_PROD": 19.11111111111111,
+      "3pointer_PROD": 1.7777777777777777,
+      "FreeThrow_PROD": 3.333333333333333
+    },
+    "Jake Layman": {
+      "GAMES": 6,
+      "MIN": 19.166666666666668,
+      "ASSISTS": 0.8333333333333334,
+      "OFFENSIVE_REBOUNDS": 0.8333333333333334,
+      "PERSONAL_FOULS": 1.3333333333333333,
+      "2pointer_PROD": 16.52777777777778,
+      "3pointer_PROD": 1.25,
+      "FreeThrow_PROD": 3.333333333333333
+    },
+    "Jalen Brunson": {
+      "GAMES": 67,
+      "MIN": 31.08955223880597,
+      "ASSISTS": 5.208955223880597,
+      "OFFENSIVE_REBOUNDS": 0.5373134328358209,
+      "PERSONAL_FOULS": 1.9253731343283584,
+      "2pointer_PROD": 80.47404767208732,
+      "3pointer_PROD": 3.5163733570951217,
+      "FreeThrow_PROD": 5.096680775228336
+    },
+    "Jalen Green": {
+      "GAMES": 55,
+      "MIN": 30.70909090909091,
+      "ASSISTS": 2.5636363636363635,
+      "OFFENSIVE_REBOUNDS": 0.4909090909090909,
+      "PERSONAL_FOULS": 1.6,
+      "2pointer_PROD": 71.38512396694215,
+      "3pointer_PROD": 13.0998347107438,
+      "FreeThrow_PROD": 9.711074380165288
+    },
+    "Jalen McDaniels": {
+      "GAMES": 36,
+      "MIN": 20.72222222222222,
+      "ASSISTS": 1.2222222222222223,
+      "OFFENSIVE_REBOUNDS": 0.8611111111111112,
+      "PERSONAL_FOULS": 2,
+      "2pointer_PROD": 18.15740740740741,
+      "3pointer_PROD": 2.544753086419753,
+      "FreeThrow_PROD": 1.20679012345679
+    },
+    "Jalen Smith": {
+      "GAMES": 31,
+      "MIN": 22.387096774193548,
+      "ASSISTS": 0.6129032258064516,
+      "OFFENSIVE_REBOUNDS": 2.7419354838709675,
+      "PERSONAL_FOULS": 2.3548387096774195,
+      "2pointer_PROD": 32.5098855359001,
+      "3pointer_PROD": 2.6222684703433923,
+      "FreeThrow_PROD": 5.178980228928199
+    },
+    "Jalen Suggs": {
+      "GAMES": 47,
+      "MIN": 27.425531914893615,
+      "ASSISTS": 4.382978723404255,
+      "OFFENSIVE_REBOUNDS": 0.5531914893617021,
+      "PERSONAL_FOULS": 3.106382978723404,
+      "2pointer_PROD": 48.26799456767769,
+      "3pointer_PROD": 3.717971933001358,
+      "FreeThrow_PROD": 9.09370755998189
+    },
+    "James Bouknight": {
+      "GAMES": 16,
+      "MIN": 20.125,
+      "ASSISTS": 1.0625,
+      "OFFENSIVE_REBOUNDS": 1.25,
+      "PERSONAL_FOULS": 1.6875,
+      "2pointer_PROD": 40.5,
+      "3pointer_PROD": 4.37890625,
+      "FreeThrow_PROD": 6.703125
+    },
+    "James Ennis III": {
+      "GAMES": 3,
+      "MIN": 13.333333333333334,
+      "ASSISTS": 0,
+      "OFFENSIVE_REBOUNDS": 1.3333333333333333,
+      "PERSONAL_FOULS": 1.3333333333333333,
+      "2pointer_PROD": 15.11111111111111,
+      "3pointer_PROD": 2,
+      "FreeThrow_PROD": 1.7777777777777777
+    },
+    "James Harden": {
+      "GAMES": 53,
+      "MIN": 35.81132075471698,
+      "ASSISTS": 10.11320754716981,
+      "OFFENSIVE_REBOUNDS": 0.8679245283018868,
+      "PERSONAL_FOULS": 2.490566037735849,
+      "2pointer_PROD": 99.47098611605551,
+      "3pointer_PROD": 15.71982912068352,
+      "FreeThrow_PROD": 50.87646849412602
+    },
+    "Jaren Jackson Jr.": {
+      "GAMES": 71,
+      "MIN": 27.01408450704225,
+      "ASSISTS": 1.028169014084507,
+      "OFFENSIVE_REBOUNDS": 1.591549295774648,
+      "PERSONAL_FOULS": 3.4788732394366195,
+      "2pointer_PROD": 75.6992660186471,
+      "3pointer_PROD": 9.198770085300534,
+      "FreeThrow_PROD": 14.932751438206704
+    },
+    "Javonte Smart": {
+      "GAMES": 10,
+      "MIN": 21.3,
+      "ASSISTS": 1.9,
+      "OFFENSIVE_REBOUNDS": 0.4,
+      "PERSONAL_FOULS": 1.3,
+      "2pointer_PROD": 14.490000000000002,
+      "3pointer_PROD": 2.72,
+      "FreeThrow_PROD": 1.4300000000000002
+    },
+    "Jaylen Brown": {
+      "GAMES": 53,
+      "MIN": 33.62264150943396,
+      "ASSISTS": 3.4150943396226414,
+      "OFFENSIVE_REBOUNDS": 0.8113207547169812,
+      "PERSONAL_FOULS": 2.4716981132075477,
+      "2pointer_PROD": 159.68387326450693,
+      "3pointer_PROD": 19.03168387326451,
+      "FreeThrow_PROD": 18.72552509789961
+    },
+    "Jaylen Nowell": {
+      "GAMES": 36,
+      "MIN": 19.47222222222222,
+      "ASSISTS": 2.833333333333333,
+      "OFFENSIVE_REBOUNDS": 0.4722222222222222,
+      "PERSONAL_FOULS": 1.4722222222222223,
+      "2pointer_PROD": 35.18518518518519,
+      "3pointer_PROD": 4.152777777777778,
+      "FreeThrow_PROD": 2.5185185185185186
+    },
+    "Jayson Tatum": {
+      "GAMES": 67,
+      "MIN": 35.417910447761194,
+      "ASSISTS": 4.17910447761194,
+      "OFFENSIVE_REBOUNDS": 1.1791044776119404,
+      "PERSONAL_FOULS": 2.373134328358209,
+      "2pointer_PROD": 191.70238360436625,
+      "3pointer_PROD": 24.252617509467587,
+      "FreeThrow_PROD": 33.14947649810648
+    },
+    "Jeff Green": {
+      "GAMES": 65,
+      "MIN": 24.153846153846157,
+      "ASSISTS": 1.2769230769230768,
+      "OFFENSIVE_REBOUNDS": 0.6,
+      "PERSONAL_FOULS": 2.0923076923076924,
+      "2pointer_PROD": 27.54437869822485,
+      "3pointer_PROD": 1.738224852071006,
+      "FreeThrow_PROD": 6.5403550295858
+    },
+    "Jerami Grant": {
+      "GAMES": 46,
+      "MIN": 31.58695652173913,
+      "ASSISTS": 2.5,
+      "OFFENSIVE_REBOUNDS": 0.5869565217391305,
+      "PERSONAL_FOULS": 2.239130434782609,
+      "2pointer_PROD": 91.45321361058602,
+      "3pointer_PROD": 9.455576559546312,
+      "FreeThrow_PROD": 26.66351606805293
+    },
+    "Jeremy Lamb": {
+      "GAMES": 38,
+      "MIN": 18.789473684210527,
+      "ASSISTS": 1.6578947368421053,
+      "OFFENSIVE_REBOUNDS": 0.4736842105263157,
+      "PERSONAL_FOULS": 1.3157894736842106,
+      "2pointer_PROD": 21.02493074792244,
+      "3pointer_PROD": 4.207063711911357,
+      "FreeThrow_PROD": 5.632963988919667
+    },
+    "Jock Landale": {
+      "GAMES": 20,
+      "MIN": 17.45,
+      "ASSISTS": 1.9,
+      "OFFENSIVE_REBOUNDS": 2.05,
+      "PERSONAL_FOULS": 1.7,
+      "2pointer_PROD": 22.27,
+      "3pointer_PROD": 2.565,
+      "FreeThrow_PROD": 1.0924999999999998
+    },
+    "Joe Wieskamp": {
+      "GAMES": 3,
+      "MIN": 11.333333333333334,
+      "ASSISTS": 0.3333333333333333,
+      "OFFENSIVE_REBOUNDS": 0.3333333333333333,
+      "PERSONAL_FOULS": 0.6666666666666666,
+      "2pointer_PROD": 10.11111111111111,
+      "3pointer_PROD": 5,
+      "FreeThrow_PROD": 1.1111111111111112
+    },
+    "Joel Embiid": {
+      "GAMES": 54,
+      "MIN": 32.46296296296296,
+      "ASSISTS": 4.277777777777778,
+      "OFFENSIVE_REBOUNDS": 2,
+      "PERSONAL_FOULS": 2.6481481481481484,
+      "2pointer_PROD": 174.36831275720164,
+      "3pointer_PROD": 4.7770919067215365,
+      "FreeThrow_PROD": 111.87482853223594
+    },
+    "John Collins": {
+      "GAMES": 58,
+      "MIN": 29.91379310344828,
+      "ASSISTS": 1.7758620689655171,
+      "OFFENSIVE_REBOUNDS": 1.7413793103448276,
+      "PERSONAL_FOULS": 2.931034482758621,
+      "2pointer_PROD": 73.51961950059453,
+      "3pointer_PROD": 3.5707491082045184,
+      "FreeThrow_PROD": 8.12782401902497
+    },
+    "Jonas Valanciunas": {
+      "GAMES": 64,
+      "MIN": 29.921875,
+      "ASSISTS": 2.421875,
+      "OFFENSIVE_REBOUNDS": 2.96875,
+      "PERSONAL_FOULS": 3.28125,
+      "2pointer_PROD": 86.2734375,
+      "3pointer_PROD": 1.755615234375,
+      "FreeThrow_PROD": 12.451171875
+    },
+    "Jonathan Kuminga": {
+      "GAMES": 34,
+      "MIN": 21.97058823529412,
+      "ASSISTS": 1.2058823529411764,
+      "OFFENSIVE_REBOUNDS": 1.0588235294117647,
+      "PERSONAL_FOULS": 2.7058823529411766,
+      "2pointer_PROD": 43.41176470588235,
+      "3pointer_PROD": 3.232698961937716,
+      "FreeThrow_PROD": 10.652249134948097
+    },
+    "Jordan Clarkson": {
+      "GAMES": 68,
+      "MIN": 25.16176470588235,
+      "ASSISTS": 2.2205882352941178,
+      "OFFENSIVE_REBOUNDS": 0.7352941176470589,
+      "PERSONAL_FOULS": 1.911764705882353,
+      "2pointer_PROD": 79.19766435986159,
+      "3pointer_PROD": 19.264705882352946,
+      "FreeThrow_PROD": 3.88840830449827
+    },
+    "Jordan Poole": {
+      "GAMES": 67,
+      "MIN": 27.91044776119403,
+      "ASSISTS": 3.567164179104477,
+      "OFFENSIVE_REBOUNDS": 0.4328358208955223,
+      "PERSONAL_FOULS": 2.5074626865671643,
+      "2pointer_PROD": 77.04655825350856,
+      "3pointer_PROD": 18.132323457340167,
+      "FreeThrow_PROD": 8.63109824014257
+    },
+    "Josh Christopher": {
+      "GAMES": 50,
+      "MIN": 19.28,
+      "ASSISTS": 2.1,
+      "OFFENSIVE_REBOUNDS": 0.8,
+      "PERSONAL_FOULS": 1.52,
+      "2pointer_PROD": 26.488,
+      "3pointer_PROD": 2.5456,
+      "FreeThrow_PROD": 1.8788
+    },
+    "Josh Giddey": {
+      "GAMES": 58,
+      "MIN": 30.689655172413797,
+      "ASSISTS": 6.293103448275862,
+      "OFFENSIVE_REBOUNDS": 1.7758620689655171,
+      "PERSONAL_FOULS": 1.6896551724137931,
+      "2pointer_PROD": 64.5231866825208,
+      "3pointer_PROD": 3.977407847800238,
+      "FreeThrow_PROD": 1.5338882282996436
+    },
+    "Josh Hart": {
+      "GAMES": 52,
+      "MIN": 32.26923076923077,
+      "ASSISTS": 4.076923076923077,
+      "OFFENSIVE_REBOUNDS": 1.25,
+      "PERSONAL_FOULS": 2.8076923076923075,
+      "2pointer_PROD": 48.46671597633136,
+      "3pointer_PROD": 4.589866863905325,
+      "FreeThrow_PROD": 10.855399408284024
+    },
+    "Josh Jackson": {
+      "GAMES": 39,
+      "MIN": 19.82051282051282,
+      "ASSISTS": 1.641025641025641,
+      "OFFENSIVE_REBOUNDS": 0.5641025641025641,
+      "PERSONAL_FOULS": 2.051282051282051,
+      "2pointer_PROD": 23.28994082840237,
+      "3pointer_PROD": 3.2728468113083498,
+      "FreeThrow_PROD": 1.656804733727811
+    },
+    "Josh Richardson": {
+      "GAMES": 53,
+      "MIN": 24.30188679245283,
+      "ASSISTS": 1.660377358490566,
+      "OFFENSIVE_REBOUNDS": 0.660377358490566,
+      "PERSONAL_FOULS": 1.849056603773585,
+      "2pointer_PROD": 26.934140263438945,
+      "3pointer_PROD": 4.92630829476682,
+      "FreeThrow_PROD": 2.208971164115344
+    },
+    "Joshua Primo": {
+      "GAMES": 26,
+      "MIN": 21.115384615384617,
+      "ASSISTS": 1.9230769230769231,
+      "OFFENSIVE_REBOUNDS": 0.8461538461538461,
+      "PERSONAL_FOULS": 1.9230769230769231,
+      "2pointer_PROD": 16.402366863905325,
+      "3pointer_PROD": 4.264792899408284,
+      "FreeThrow_PROD": 1.0887573964497042
+    },
+    "Jrue Holiday": {
+      "GAMES": 58,
+      "MIN": 32.241379310344826,
+      "ASSISTS": 6.672413793103448,
+      "OFFENSIVE_REBOUNDS": 1.0862068965517242,
+      "PERSONAL_FOULS": 1.9655172413793105,
+      "2pointer_PROD": 98.35939357907256,
+      "3pointer_PROD": 8.632580261593342,
+      "FreeThrow_PROD": 4.860879904875149
+    },
+    "Julius Randle": {
+      "GAMES": 68,
+      "MIN": 34.794117647058826,
+      "ASSISTS": 5.073529411764706,
+      "OFFENSIVE_REBOUNDS": 1.7794117647058822,
+      "PERSONAL_FOULS": 2.8088235294117645,
+      "2pointer_PROD": 125.67690311418686,
+      "3pointer_PROD": 9.131487889273355,
+      "FreeThrow_PROD": 23.418685121107263
+    },
+    "Justin Anderson": {
+      "GAMES": 3,
+      "MIN": 19.33333333333333,
+      "ASSISTS": 2.6666666666666665,
+      "OFFENSIVE_REBOUNDS": 0.3333333333333333,
+      "PERSONAL_FOULS": 1.6666666666666667,
+      "2pointer_PROD": 7.777777777777779,
+      "3pointer_PROD": 2.2222222222222223,
+      "FreeThrow_PROD": 2.777777777777778
+    },
+    "KarlAnthony Towns": {
+      "GAMES": 66,
+      "MIN": 32.45454545454545,
+      "ASSISTS": 3.787878787878788,
+      "OFFENSIVE_REBOUNDS": 2.606060606060606,
+      "PERSONAL_FOULS": 3.484848484848485,
+      "2pointer_PROD": 134.0358126721763,
+      "3pointer_PROD": 9.31404958677686,
+      "FreeThrow_PROD": 30.194674012855835
+    },
+    "Keifer Sykes": {
+      "GAMES": 16,
+      "MIN": 25,
+      "ASSISTS": 3.0625,
+      "OFFENSIVE_REBOUNDS": 0.5,
+      "PERSONAL_FOULS": 2.375,
+      "2pointer_PROD": 26.953125,
+      "3pointer_PROD": 5.33203125,
+      "FreeThrow_PROD": 1.26171875
+    },
+    "Keldon Johnson": {
+      "GAMES": 67,
+      "MIN": 30.56716417910448,
+      "ASSISTS": 1.8059701492537317,
+      "OFFENSIVE_REBOUNDS": 1.0149253731343284,
+      "PERSONAL_FOULS": 1.8507462686567164,
+      "2pointer_PROD": 76.15994653597683,
+      "3pointer_PROD": 8.590777456003565,
+      "FreeThrow_PROD": 6.659835152595233
+    },
+    "Kelly Olynyk": {
+      "GAMES": 34,
+      "MIN": 18.852941176470587,
+      "ASSISTS": 2.735294117647059,
+      "OFFENSIVE_REBOUNDS": 1.3529411764705883,
+      "PERSONAL_FOULS": 2.647058823529412,
+      "2pointer_PROD": 25.28719723183391,
+      "3pointer_PROD": 3.487889273356401,
+      "FreeThrow_PROD": 3.5847750865051897
+    },
+    "Kelly Oubre Jr.": {
+      "GAMES": 63,
+      "MIN": 27.15873015873016,
+      "ASSISTS": 1.1587301587301588,
+      "OFFENSIVE_REBOUNDS": 1.1111111111111112,
+      "PERSONAL_FOULS": 2.619047619047619,
+      "2pointer_PROD": 75.51927437641723,
+      "3pointer_PROD": 20.90677752582514,
+      "FreeThrow_PROD": 4.408163265306123
+    },
+    "Kemba Walker": {
+      "GAMES": 40,
+      "MIN": 24.725,
+      "ASSISTS": 3.625,
+      "OFFENSIVE_REBOUNDS": 0.35,
+      "PERSONAL_FOULS": 1.025,
+      "2pointer_PROD": 39.8,
+      "3pointer_PROD": 10.53,
+      "FreeThrow_PROD": 2.91375
+    },
+    "Kentavious CaldwellPope": {
+      "GAMES": 66,
+      "MIN": 29.09090909090909,
+      "ASSISTS": 1.9393939393939397,
+      "OFFENSIVE_REBOUNDS": 0.5151515151515151,
+      "PERSONAL_FOULS": 1.7272727272727273,
+      "2pointer_PROD": 42.72107438016529,
+      "3pointer_PROD": 10.961432506887052,
+      "FreeThrow_PROD": 3.108815426997245
+    },
+    "Kenyon Martin Jr.": {
+      "GAMES": 62,
+      "MIN": 20.983870967741936,
+      "ASSISTS": 1.4516129032258065,
+      "OFFENSIVE_REBOUNDS": 1.2096774193548387,
+      "PERSONAL_FOULS": 1.4193548387096775,
+      "2pointer_PROD": 26.96019771071801,
+      "3pointer_PROD": 1.6383975026014568,
+      "FreeThrow_PROD": 1.7754942767950053
+    },
+    "Keon Johnson": {
+      "GAMES": 17,
+      "MIN": 17.647058823529413,
+      "ASSISTS": 1.8235294117647056,
+      "OFFENSIVE_REBOUNDS": 0.6470588235294118,
+      "PERSONAL_FOULS": 2.117647058823529,
+      "2pointer_PROD": 13.442906574394462,
+      "3pointer_PROD": 1.6193771626297575,
+      "FreeThrow_PROD": 3.269896193771626
+    },
+    "Kevin Durant": {
+      "GAMES": 43,
+      "MIN": 35.395348837209305,
+      "ASSISTS": 5.534883720930233,
+      "OFFENSIVE_REBOUNDS": 0.5581395348837209,
+      "PERSONAL_FOULS": 1.930232558139535,
+      "2pointer_PROD": 200.3872363439697,
+      "3pointer_PROD": 9.949161709031909,
+      "FreeThrow_PROD": 40.32558139534884
+    },
+    "Kevin Love": {
+      "GAMES": 61,
+      "MIN": 21.62295081967213,
+      "ASSISTS": 2.1311475409836067,
+      "OFFENSIVE_REBOUNDS": 1.0655737704918034,
+      "PERSONAL_FOULS": 1.2459016393442623,
+      "2pointer_PROD": 43.25181402848697,
+      "3pointer_PROD": 14.651975275463586,
+      "FreeThrow_PROD": 7.855415210964795
+    },
+    "Kevin Porter Jr.": {
+      "GAMES": 50,
+      "MIN": 29.74,
+      "ASSISTS": 5.88,
+      "OFFENSIVE_REBOUNDS": 0.68,
+      "PERSONAL_FOULS": 2.54,
+      "2pointer_PROD": 60.27000000000001,
+      "3pointer_PROD": 14.6952,
+      "FreeThrow_PROD": 6.7872
+    },
+    "Khris Middleton": {
+      "GAMES": 58,
+      "MIN": 31.55172413793104,
+      "ASSISTS": 5.275862068965517,
+      "OFFENSIVE_REBOUNDS": 0.6551724137931034,
+      "PERSONAL_FOULS": 2.4482758620689653,
+      "2pointer_PROD": 105.49494649227113,
+      "3pointer_PROD": 15.39833531510107,
+      "FreeThrow_PROD": 17.785077288941736
+    },
+    "Killian Hayes": {
+      "GAMES": 53,
+      "MIN": 24.09433962264151,
+      "ASSISTS": 4.2075471698113205,
+      "OFFENSIVE_REBOUNDS": 0.5660377358490566,
+      "PERSONAL_FOULS": 2.7169811320754715,
+      "2pointer_PROD": 14.723389106443577,
+      "3pointer_PROD": 1.5614097543609826,
+      "FreeThrow_PROD": 1.0206479174083305
+    },
+    "Klay Thompson": {
+      "GAMES": 22,
+      "MIN": 26.227272727272727,
+      "ASSISTS": 2.9545454545454546,
+      "OFFENSIVE_REBOUNDS": 0.4545454545454545,
+      "PERSONAL_FOULS": 1.5,
+      "2pointer_PROD": 103.35743801652892,
+      "3pointer_PROD": 23.367768595041323,
+      "FreeThrow_PROD": 2.7479338842975207
+    },
+    "Kristaps Porzingis": {
+      "GAMES": 40,
+      "MIN": 27.775,
+      "ASSISTS": 2.075,
+      "OFFENSIVE_REBOUNDS": 1.9,
+      "PERSONAL_FOULS": 2.5,
+      "2pointer_PROD": 93.144375,
+      "3pointer_PROD": 7.141249999999999,
+      "FreeThrow_PROD": 21.375
+    },
+    "Kyle Kuzma": {
+      "GAMES": 67,
+      "MIN": 32.56716417910448,
+      "ASSISTS": 3.328358208955224,
+      "OFFENSIVE_REBOUNDS": 1.0298507462686568,
+      "PERSONAL_FOULS": 1.9104477611940296,
+      "2pointer_PROD": 89.31900200490088,
+      "3pointer_PROD": 11.462686567164178,
+      "FreeThrow_PROD": 7.645355312987303
+    },
+    "Kyle Lowry": {
+      "GAMES": 56,
+      "MIN": 32.964285714285715,
+      "ASSISTS": 7.75,
+      "OFFENSIVE_REBOUNDS": 0.5714285714285714,
+      "PERSONAL_FOULS": 2.732142857142857,
+      "2pointer_PROD": 39.10235969387756,
+      "3pointer_PROD": 11.71077806122449,
+      "FreeThrow_PROD": 6.115114795918368
+    },
+    "Kyrie Irving": {
+      "GAMES": 18,
+      "MIN": 35.666666666666664,
+      "ASSISTS": 5.388888888888889,
+      "OFFENSIVE_REBOUNDS": 0.5555555555555556,
+      "PERSONAL_FOULS": 2.611111111111111,
+      "2pointer_PROD": 191.641975308642,
+      "3pointer_PROD": 21.265432098765437,
+      "FreeThrow_PROD": 16.85185185185185
+    },
+    "LaMelo Ball": {
+      "GAMES": 64,
+      "MIN": 31.28125,
+      "ASSISTS": 7.25,
+      "OFFENSIVE_REBOUNDS": 1.546875,
+      "PERSONAL_FOULS": 3.109375,
+      "2pointer_PROD": 116.921875,
+      "3pointer_PROD": 18.146484375,
+      "FreeThrow_PROD": 9.9599609375
+    },
+    "Lance Stephenson": {
+      "GAMES": 28,
+      "MIN": 19.464285714285715,
+      "ASSISTS": 3.9642857142857135,
+      "OFFENSIVE_REBOUNDS": 0.3928571428571428,
+      "PERSONAL_FOULS": 2.107142857142857,
+      "2pointer_PROD": 30.112244897959187,
+      "3pointer_PROD": 1.2448979591836733,
+      "FreeThrow_PROD": 2.586734693877551
+    },
+    "Landry Shamet": {
+      "GAMES": 56,
+      "MIN": 20.553571428571427,
+      "ASSISTS": 1.7321428571428572,
+      "OFFENSIVE_REBOUNDS": 0.25,
+      "PERSONAL_FOULS": 1.25,
+      "2pointer_PROD": 18.1875,
+      "3pointer_PROD": 8.3125,
+      "FreeThrow_PROD": 1.5545280612244898
+    },
+    "Lauri Markkanen": {
+      "GAMES": 50,
+      "MIN": 29.04,
+      "ASSISTS": 1.42,
+      "OFFENSIVE_REBOUNDS": 1.06,
+      "PERSONAL_FOULS": 1.7,
+      "2pointer_PROD": 57.4288,
+      "3pointer_PROD": 11.7968,
+      "FreeThrow_PROD": 4.384399999999999
+    },
+    "LeBron James": {
+      "GAMES": 51,
+      "MIN": 35.72549019607843,
+      "ASSISTS": 6.15686274509804,
+      "OFFENSIVE_REBOUNDS": 1.0196078431372548,
+      "PERSONAL_FOULS": 2.117647058823529,
+      "2pointer_PROD": 231.03613994617456,
+      "3pointer_PROD": 20.798154555940023,
+      "FreeThrow_PROD": 25.45866974240677
+    },
+    "Lindell Wigginton": {
+      "GAMES": 5,
+      "MIN": 18,
+      "ASSISTS": 1.4,
+      "OFFENSIVE_REBOUNDS": 0.2,
+      "PERSONAL_FOULS": 1.4,
+      "2pointer_PROD": 8.8,
+      "3pointer_PROD": 2.88,
+      "FreeThrow_PROD": 4.680000000000001
+    },
+    "Lonnie Walker IV": {
+      "GAMES": 67,
+      "MIN": 22.73134328358209,
+      "ASSISTS": 2.194029850746269,
+      "OFFENSIVE_REBOUNDS": 0.2537313432835821,
+      "PERSONAL_FOULS": 1.4776119402985075,
+      "2pointer_PROD": 47.87569614613499,
+      "3pointer_PROD": 7.4473156605034525,
+      "FreeThrow_PROD": 2.969926486968144
+    },
+    "Lou Williams": {
+      "GAMES": 42,
+      "MIN": 14.666666666666666,
+      "ASSISTS": 2,
+      "OFFENSIVE_REBOUNDS": 0.3095238095238095,
+      "PERSONAL_FOULS": 0.9523809523809524,
+      "2pointer_PROD": 15.79591836734694,
+      "3pointer_PROD": 1.5782312925170068,
+      "FreeThrow_PROD": 2.1740362811791383
+    },
+    "Louis King": {
+      "GAMES": 6,
+      "MIN": 15,
+      "ASSISTS": 0.8333333333333334,
+      "OFFENSIVE_REBOUNDS": 0,
+      "PERSONAL_FOULS": 1.6666666666666667,
+      "2pointer_PROD": 12,
+      "3pointer_PROD": 4.277777777777778,
+      "FreeThrow_PROD": 2.75
+    },
+    "Luguentz Dort": {
+      "GAMES": 54,
+      "MIN": 31.444444444444443,
+      "ASSISTS": 1.7037037037037035,
+      "OFFENSIVE_REBOUNDS": 0.7037037037037037,
+      "PERSONAL_FOULS": 2.814814814814815,
+      "2pointer_PROD": 79.53497942386831,
+      "3pointer_PROD": 19.540466392318244,
+      "FreeThrow_PROD": 11.090534979423868
+    },
+    "Luka Doncic": {
+      "GAMES": 54,
+      "MIN": 34.22222222222222,
+      "ASSISTS": 8.537037037037036,
+      "OFFENSIVE_REBOUNDS": 0.9444444444444444,
+      "PERSONAL_FOULS": 2.3703703703703702,
+      "2pointer_PROD": 204.54046639231825,
+      "3pointer_PROD": 23.147119341563787,
+      "FreeThrow_PROD": 37.26748971193416
+    },
+    "Luka Garza": {
+      "GAMES": 11,
+      "MIN": 20.454545454545453,
+      "ASSISTS": 1.181818181818182,
+      "OFFENSIVE_REBOUNDS": 2.636363636363636,
+      "PERSONAL_FOULS": 2.8181818181818183,
+      "2pointer_PROD": 19.21487603305785,
+      "3pointer_PROD": 1.4462809917355373,
+      "FreeThrow_PROD": 2.31404958677686
+    },
+    "Luke Kennard": {
+      "GAMES": 62,
+      "MIN": 26.79032258064516,
+      "ASSISTS": 2.096774193548387,
+      "OFFENSIVE_REBOUNDS": 0.2580645161290322,
+      "PERSONAL_FOULS": 1.467741935483871,
+      "2pointer_PROD": 36.82726326742977,
+      "3pointer_PROD": 16.584287200832467,
+      "FreeThrow_PROD": 1.2154006243496358
+    },
+    "Malachi Flynn": {
+      "GAMES": 21,
+      "MIN": 21.23809523809524,
+      "ASSISTS": 2.6666666666666665,
+      "OFFENSIVE_REBOUNDS": 0.3333333333333333,
+      "PERSONAL_FOULS": 1.9047619047619049,
+      "2pointer_PROD": 29.25170068027211,
+      "3pointer_PROD": 6.809523809523809,
+      "FreeThrow_PROD": 1.2698412698412698
+    },
+    "Malcolm Brogdon": {
+      "GAMES": 35,
+      "MIN": 33.22857142857143,
+      "ASSISTS": 5.942857142857143,
+      "OFFENSIVE_REBOUNDS": 0.8571428571428571,
+      "PERSONAL_FOULS": 2,
+      "2pointer_PROD": 105.09714285714286,
+      "3pointer_PROD": 8.765714285714287,
+      "FreeThrow_PROD": 18.36244897959184
+    },
+    "Malcolm Hill": {
+      "GAMES": 8,
+      "MIN": 20.125,
+      "ASSISTS": 0.5,
+      "OFFENSIVE_REBOUNDS": 1.25,
+      "PERSONAL_FOULS": 2.5,
+      "2pointer_PROD": 9.5625,
+      "3pointer_PROD": 3.375,
+      "FreeThrow_PROD": 2.40625
+    },
+    "Malik Monk": {
+      "GAMES": 62,
+      "MIN": 27.193548387096776,
+      "ASSISTS": 2.6129032258064515,
+      "OFFENSIVE_REBOUNDS": 0.4677419354838709,
+      "PERSONAL_FOULS": 1.7258064516129032,
+      "2pointer_PROD": 51.40478668054111,
+      "3pointer_PROD": 13.411030176899065,
+      "FreeThrow_PROD": 1.4765868886576483
+    },
+    "Marcus Morris Sr.": {
+      "GAMES": 44,
+      "MIN": 28.90909090909091,
+      "ASSISTS": 2.0454545454545454,
+      "OFFENSIVE_REBOUNDS": 0.4772727272727273,
+      "PERSONAL_FOULS": 2.272727272727273,
+      "2pointer_PROD": 74.54803719008264,
+      "3pointer_PROD": 10.363636363636363,
+      "FreeThrow_PROD": 6.277892561983471
+    },
+    "Marcus Smart": {
+      "GAMES": 60,
+      "MIN": 32.083333333333336,
+      "ASSISTS": 5.6,
+      "OFFENSIVE_REBOUNDS": 0.65,
+      "PERSONAL_FOULS": 2.3833333333333333,
+      "2pointer_PROD": 40.385,
+      "3pointer_PROD": 7.206666666666667,
+      "FreeThrow_PROD": 5.688888888888888
+    },
+    "Marvin Bagley III": {
+      "GAMES": 38,
+      "MIN": 22.81578947368421,
+      "ASSISTS": 0.5789473684210527,
+      "OFFENSIVE_REBOUNDS": 2.3684210526315788,
+      "PERSONAL_FOULS": 1.7894736842105263,
+      "2pointer_PROD": 41.81232686980609,
+      "3pointer_PROD": 1.0096952908587258,
+      "FreeThrow_PROD": 2.261772853185596
+    },
+    "Maxi Kleber": {
+      "GAMES": 49,
+      "MIN": 24.571428571428573,
+      "ASSISTS": 1.163265306122449,
+      "OFFENSIVE_REBOUNDS": 1.2448979591836735,
+      "PERSONAL_FOULS": 2.224489795918368,
+      "2pointer_PROD": 15.624739691795083,
+      "3pointer_PROD": 7.087463556851312,
+      "FreeThrow_PROD": 1.056643065389421
+    },
+    "Micah Potter": {
+      "GAMES": 4,
+      "MIN": 24,
+      "ASSISTS": 0.75,
+      "OFFENSIVE_REBOUNDS": 3.25,
+      "PERSONAL_FOULS": 2.25,
+      "2pointer_PROD": 37,
+      "3pointer_PROD": 1.6875,
+      "FreeThrow_PROD": 2.25
+    },
+    "Mikal Bridges": {
+      "GAMES": 71,
+      "MIN": 33.66197183098591,
+      "ASSISTS": 2.23943661971831,
+      "OFFENSIVE_REBOUNDS": 0.9295774647887324,
+      "PERSONAL_FOULS": 1.9154929577464788,
+      "2pointer_PROD": 53.85280698274152,
+      "3pointer_PROD": 5.176155524697481,
+      "FreeThrow_PROD": 2.2977583812735567
+    },
+    "Mike Conley": {
+      "GAMES": 62,
+      "MIN": 27.14516129032258,
+      "ASSISTS": 5.048387096774194,
+      "OFFENSIVE_REBOUNDS": 0.6129032258064516,
+      "PERSONAL_FOULS": 1.8064516129032255,
+      "2pointer_PROD": 47.90322580645161,
+      "3pointer_PROD": 12.801508844953174,
+      "FreeThrow_PROD": 4.062955254942767
+    },
+    "Mike Muscala": {
+      "GAMES": 37,
+      "MIN": 14.91891891891892,
+      "ASSISTS": 0.6216216216216216,
+      "OFFENSIVE_REBOUNDS": 0.5405405405405406,
+      "PERSONAL_FOULS": 1.4054054054054057,
+      "2pointer_PROD": 18.02410518626735,
+      "3pointer_PROD": 7.520818115412709,
+      "FreeThrow_PROD": 2.0818115412710005
+    },
+    "Miles Bridges": {
+      "GAMES": 70,
+      "MIN": 34.871428571428574,
+      "ASSISTS": 3.642857142857143,
+      "OFFENSIVE_REBOUNDS": 1.1428571428571428,
+      "PERSONAL_FOULS": 2.5428571428571427,
+      "2pointer_PROD": 108.21428571428572,
+      "3pointer_PROD": 10.331632653061224,
+      "FreeThrow_PROD": 13.31938775510204
+    },
+    "Monte Morris": {
+      "GAMES": 66,
+      "MIN": 28.954545454545453,
+      "ASSISTS": 4.212121212121212,
+      "OFFENSIVE_REBOUNDS": 0.3181818181818182,
+      "PERSONAL_FOULS": 1.0909090909090908,
+      "2pointer_PROD": 52.20844811753903,
+      "3pointer_PROD": 6.77961432506887,
+      "FreeThrow_PROD": 1.0022956841138655
+    },
+    "Moritz Wagner": {
+      "GAMES": 31,
+      "MIN": 17.193548387096776,
+      "ASSISTS": 1.4193548387096775,
+      "OFFENSIVE_REBOUNDS": 0.6774193548387096,
+      "PERSONAL_FOULS": 2.4838709677419355,
+      "2pointer_PROD": 27.758584807492195,
+      "3pointer_PROD": 5.723204994797086,
+      "FreeThrow_PROD": 7.772112382934443
+    },
+    "Moses Moody": {
+      "GAMES": 20,
+      "MIN": 20.95,
+      "ASSISTS": 0.7,
+      "OFFENSIVE_REBOUNDS": 0.95,
+      "PERSONAL_FOULS": 1.3,
+      "2pointer_PROD": 19.14,
+      "3pointer_PROD": 6.432500000000001,
+      "FreeThrow_PROD": 1.54
+    },
+    "Myles Turner": {
+      "GAMES": 46,
+      "MIN": 28.17391304347826,
+      "ASSISTS": 1.0434782608695652,
+      "OFFENSIVE_REBOUNDS": 1.5,
+      "PERSONAL_FOULS": 2.739130434782609,
+      "2pointer_PROD": 43.48771266540643,
+      "3pointer_PROD": 6.143667296786389,
+      "FreeThrow_PROD": 4.921077504725898
+    },
+    "Naji Marshall": {
+      "GAMES": 23,
+      "MIN": 17.91304347826087,
+      "ASSISTS": 1.6521739130434785,
+      "OFFENSIVE_REBOUNDS": 0.8695652173913043,
+      "PERSONAL_FOULS": 1.608695652173913,
+      "2pointer_PROD": 18.994328922495274,
+      "3pointer_PROD": 1.0378071833648392,
+      "FreeThrow_PROD": 3.7051039697542536
+    },
+    "Nassir Little": {
+      "GAMES": 42,
+      "MIN": 25.714285714285715,
+      "ASSISTS": 1.3095238095238095,
+      "OFFENSIVE_REBOUNDS": 1.380952380952381,
+      "PERSONAL_FOULS": 1.9761904761904765,
+      "2pointer_PROD": 26.733560090702948,
+      "3pointer_PROD": 4.5102040816326525,
+      "FreeThrow_PROD": 3.809523809523809
+    },
+    "Naz Reid": {
+      "GAMES": 62,
+      "MIN": 16.596774193548388,
+      "ASSISTS": 1.064516129032258,
+      "OFFENSIVE_REBOUNDS": 1.4516129032258065,
+      "PERSONAL_FOULS": 2.129032258064516,
+      "2pointer_PROD": 22.07700312174818,
+      "3pointer_PROD": 1.7481789802289285,
+      "FreeThrow_PROD": 3.5905306971904265
+    },
+    "Nickeil AlexanderWalker": {
+      "GAMES": 55,
+      "MIN": 25.418181818181814,
+      "ASSISTS": 2.8181818181818183,
+      "OFFENSIVE_REBOUNDS": 0.6909090909090909,
+      "PERSONAL_FOULS": 1.7636363636363637,
+      "2pointer_PROD": 58.30876033057851,
+      "3pointer_PROD": 11.73223140495868,
+      "FreeThrow_PROD": 2.972231404958677
+    },
+    "Nikola Jokic": {
+      "GAMES": 64,
+      "MIN": 32.21875,
+      "ASSISTS": 7.953125,
+      "OFFENSIVE_REBOUNDS": 2.75,
+      "PERSONAL_FOULS": 2.59375,
+      "2pointer_PROD": 165.484375,
+      "3pointer_PROD": 6.1044921875,
+      "FreeThrow_PROD": 27.00927734375
+    },
+    "Nikola Vucevic": {
+      "GAMES": 63,
+      "MIN": 32.888888888888886,
+      "ASSISTS": 3.380952380952381,
+      "OFFENSIVE_REBOUNDS": 1.968253968253968,
+      "PERSONAL_FOULS": 2.5873015873015874,
+      "2pointer_PROD": 120.66213151927435,
+      "3pointer_PROD": 6.327034517510708,
+      "FreeThrow_PROD": 2.1899722852103807
+    },
+    "Norman Powell": {
+      "GAMES": 46,
+      "MIN": 31.630434782608692,
+      "ASSISTS": 2.065217391304348,
+      "OFFENSIVE_REBOUNDS": 0.4565217391304347,
+      "PERSONAL_FOULS": 2.260869565217391,
+      "2pointer_PROD": 82.62759924385632,
+      "3pointer_PROD": 12.46124763705104,
+      "FreeThrow_PROD": 19.16068052930057
+    },
+    "OG Anunoby": {
+      "GAMES": 46,
+      "MIN": 35.108695652173914,
+      "ASSISTS": 2.5434782608695654,
+      "OFFENSIVE_REBOUNDS": 1.565217391304348,
+      "PERSONAL_FOULS": 2.8260869565217392,
+      "2pointer_PROD": 98.08837429111531,
+      "3pointer_PROD": 16.50141776937618,
+      "FreeThrow_PROD": 5.217391304347826
+    },
+    "Obi Toppin": {
+      "GAMES": 46,
+      "MIN": 16.782608695652176,
+      "ASSISTS": 0.9130434782608696,
+      "OFFENSIVE_REBOUNDS": 1.0434782608695652,
+      "PERSONAL_FOULS": 1.565217391304348,
+      "2pointer_PROD": 22.264650283553877,
+      "3pointer_PROD": 1.0434782608695652,
+      "FreeThrow_PROD": 2.601134215500945
+    },
+    "Oshae Brissett": {
+      "GAMES": 48,
+      "MIN": 23.95833333333333,
+      "ASSISTS": 0.9166666666666666,
+      "OFFENSIVE_REBOUNDS": 1.7291666666666667,
+      "PERSONAL_FOULS": 1.7708333333333333,
+      "2pointer_PROD": 22.1875,
+      "3pointer_PROD": 4.131944444444445,
+      "FreeThrow_PROD": 3.927083333333333
+    },
+    "P.J. Washington": {
+      "GAMES": 53,
+      "MIN": 26.22641509433962,
+      "ASSISTS": 2,
+      "OFFENSIVE_REBOUNDS": 1.320754716981132,
+      "PERSONAL_FOULS": 2.547169811320755,
+      "2pointer_PROD": 30.42221431114276,
+      "3pointer_PROD": 9.090779636881454,
+      "FreeThrow_PROD": 1.325382698469206
+    },
+    "Pascal Siakam": {
+      "GAMES": 54,
+      "MIN": 37.11111111111112,
+      "ASSISTS": 5.111111111111111,
+      "OFFENSIVE_REBOUNDS": 1.962962962962963,
+      "PERSONAL_FOULS": 3.4814814814814814,
+      "2pointer_PROD": 143.82716049382717,
+      "3pointer_PROD": 3.341563786008231,
+      "FreeThrow_PROD": 21.90466392318244
+    },
+    "Patrick Beverley": {
+      "GAMES": 46,
+      "MIN": 26.23913043478261,
+      "ASSISTS": 5.086956521739131,
+      "OFFENSIVE_REBOUNDS": 1.108695652173913,
+      "PERSONAL_FOULS": 3.239130434782609,
+      "2pointer_PROD": 25.70415879017013,
+      "3pointer_PROD": 6.98015122873346,
+      "FreeThrow_PROD": 2.8260869565217392
+    },
+    "Paul George": {
+      "GAMES": 28,
+      "MIN": 33.642857142857146,
+      "ASSISTS": 5.285714285714286,
+      "OFFENSIVE_REBOUNDS": 0.3928571428571428,
+      "PERSONAL_FOULS": 2.392857142857143,
+      "2pointer_PROD": 175.71428571428572,
+      "3pointer_PROD": 20.846938775510207,
+      "FreeThrow_PROD": 15.653061224489797
+    },
+    "R.J. Hampton": {
+      "GAMES": 51,
+      "MIN": 20.392156862745097,
+      "ASSISTS": 2.411764705882353,
+      "OFFENSIVE_REBOUNDS": 0.3529411764705882,
+      "PERSONAL_FOULS": 1.431372549019608,
+      "2pointer_PROD": 18.69857747020377,
+      "3pointer_PROD": 2.5055747789311806,
+      "FreeThrow_PROD": 2.879661668589004
+    },
+    "RJ Barrett": {
+      "GAMES": 59,
+      "MIN": 33.52542372881356,
+      "ASSISTS": 2.915254237288136,
+      "OFFENSIVE_REBOUNDS": 0.7627118644067796,
+      "PERSONAL_FOULS": 2.152542372881356,
+      "2pointer_PROD": 110.49583453030738,
+      "3pointer_PROD": 12.08445848893996,
+      "FreeThrow_PROD": 19.262568227520827
+    },
+    "Raul Neto": {
+      "GAMES": 58,
+      "MIN": 20.724137931034484,
+      "ASSISTS": 3.155172413793104,
+      "OFFENSIVE_REBOUNDS": 0.2241379310344827,
+      "PERSONAL_FOULS": 1.6206896551724137,
+      "2pointer_PROD": 22.73573127229489,
+      "3pointer_PROD": 1.055885850178359,
+      "FreeThrow_PROD": 2.4970273483947683
+    },
+    "Reggie Jackson": {
+      "GAMES": 67,
+      "MIN": 30.34328358208955,
+      "ASSISTS": 4.656716417910448,
+      "OFFENSIVE_REBOUNDS": 0.5671641791044776,
+      "PERSONAL_FOULS": 1.9701492537313432,
+      "2pointer_PROD": 102.97170862107372,
+      "3pointer_PROD": 15.71240810871018,
+      "FreeThrow_PROD": 4.060592559590109
+    },
+    "Ricky Rubio": {
+      "GAMES": 38,
+      "MIN": 27.105263157894736,
+      "ASSISTS": 6.526315789473684,
+      "OFFENSIVE_REBOUNDS": 0.4473684210526316,
+      "PERSONAL_FOULS": 2.236842105263158,
+      "2pointer_PROD": 51.41966759002771,
+      "3pointer_PROD": 7.815096952908587,
+      "FreeThrow_PROD": 7.302631578947368
+    },
+    "Rudy Gay": {
+      "GAMES": 41,
+      "MIN": 18.682926829268293,
+      "ASSISTS": 1.048780487804878,
+      "OFFENSIVE_REBOUNDS": 1.024390243902439,
+      "PERSONAL_FOULS": 1.7560975609756098,
+      "2pointer_PROD": 21.201665675193336,
+      "3pointer_PROD": 5.300416418798335,
+      "FreeThrow_PROD": 2.2903033908387864
+    },
+    "Rui Hachimura": {
+      "GAMES": 25,
+      "MIN": 19.16,
+      "ASSISTS": 0.96,
+      "OFFENSIVE_REBOUNDS": 0.44,
+      "PERSONAL_FOULS": 1.24,
+      "2pointer_PROD": 29.336,
+      "3pointer_PROD": 3.1744,
+      "FreeThrow_PROD": 1.6128
+    },
+    "Russell Westbrook": {
+      "GAMES": 69,
+      "MIN": 33.405797101449274,
+      "ASSISTS": 7.072463768115942,
+      "OFFENSIVE_REBOUNDS": 1.3478260869565215,
+      "PERSONAL_FOULS": 3.0144927536231885,
+      "2pointer_PROD": 103.99369880277251,
+      "3pointer_PROD": 3.1127914303717708,
+      "FreeThrow_PROD": 16.473850031505986
+    },
+    "Saben Lee": {
+      "GAMES": 22,
+      "MIN": 20.13636363636364,
+      "ASSISTS": 3.363636363636364,
+      "OFFENSIVE_REBOUNDS": 0.4545454545454545,
+      "PERSONAL_FOULS": 1.2727272727272727,
+      "2pointer_PROD": 17.31198347107438,
+      "3pointer_PROD": 1.5537190082644627,
+      "FreeThrow_PROD": 3.2541322314049586
+    },
+    "Saddiq Bey": {
+      "GAMES": 69,
+      "MIN": 32.79710144927536,
+      "ASSISTS": 2.840579710144928,
+      "OFFENSIVE_REBOUNDS": 1.434782608695652,
+      "PERSONAL_FOULS": 1.6231884057971016,
+      "2pointer_PROD": 73.60302457466919,
+      "3pointer_PROD": 17.814744801512287,
+      "FreeThrow_PROD": 7.127914303717708
+    },
+    "Sandro Mamukelashvili": {
+      "GAMES": 15,
+      "MIN": 20.933333333333334,
+      "ASSISTS": 1.1333333333333333,
+      "OFFENSIVE_REBOUNDS": 2.4,
+      "PERSONAL_FOULS": 1.4666666666666666,
+      "2pointer_PROD": 19.04,
+      "3pointer_PROD": 2.551111111111111,
+      "FreeThrow_PROD": 1.6355555555555557
+    },
+    "Scottie Barnes": {
+      "GAMES": 64,
+      "MIN": 34.28125,
+      "ASSISTS": 3.515625,
+      "OFFENSIVE_REBOUNDS": 2.53125,
+      "PERSONAL_FOULS": 2.671875,
+      "2pointer_PROD": 72.9306640625,
+      "3pointer_PROD": 1.824462890625,
+      "FreeThrow_PROD": 5.98681640625
+    },
+    "Seth Curry": {
+      "GAMES": 59,
+      "MIN": 32.91525423728814,
+      "ASSISTS": 3.711864406779661,
+      "OFFENSIVE_REBOUNDS": 0.3389830508474576,
+      "PERSONAL_FOULS": 2.3389830508474576,
+      "2pointer_PROD": 66.10916403332375,
+      "3pointer_PROD": 13.513358230393564,
+      "FreeThrow_PROD": 2.039069232979029
+    },
+    "Shai GilgeousAlexander": {
+      "GAMES": 54,
+      "MIN": 33.27777777777778,
+      "ASSISTS": 5.777777777777778,
+      "OFFENSIVE_REBOUNDS": 0.6296296296296297,
+      "PERSONAL_FOULS": 2.4074074074074074,
+      "2pointer_PROD": 144.25788751714677,
+      "3pointer_PROD": 8.169067215363512,
+      "FreeThrow_PROD": 39.04458161865569
+    },
+    "Shake Milton": {
+      "GAMES": 39,
+      "MIN": 22.871794871794872,
+      "ASSISTS": 2.769230769230769,
+      "OFFENSIVE_REBOUNDS": 0.5641025641025641,
+      "PERSONAL_FOULS": 1.948717948717949,
+      "2pointer_PROD": 27.73307034845497,
+      "3pointer_PROD": 1.9921104536489156,
+      "FreeThrow_PROD": 1.90664036817883
+    },
+    "Spencer Dinwiddie": {
+      "GAMES": 58,
+      "MIN": 29.310344827586206,
+      "ASSISTS": 5.517241379310345,
+      "OFFENSIVE_REBOUNDS": 0.6379310344827587,
+      "PERSONAL_FOULS": 2.3793103448275863,
+      "2pointer_PROD": 50.8537455410226,
+      "3pointer_PROD": 8.304399524375743,
+      "FreeThrow_PROD": 9.607609988109395
+    },
+    "Stephen Curry": {
+      "GAMES": 66,
+      "MIN": 33.696969696969695,
+      "ASSISTS": 6.151515151515151,
+      "OFFENSIVE_REBOUNDS": 0.5151515151515151,
+      "PERSONAL_FOULS": 1.9696969696969695,
+      "2pointer_PROD": 160.0495867768595,
+      "3pointer_PROD": 52.2396694214876,
+      "FreeThrow_PROD": 19.669421487603305
+    },
+    "Svi Mykhailiuk": {
+      "GAMES": 34,
+      "MIN": 19.647058823529413,
+      "ASSISTS": 1.4705882352941178,
+      "OFFENSIVE_REBOUNDS": 0.5588235294117647,
+      "PERSONAL_FOULS": 1.3823529411764706,
+      "2pointer_PROD": 18.05190311418685,
+      "3pointer_PROD": 4.11764705882353,
+      "FreeThrow_PROD": 1.0519031141868511
+    },
+    "Talen HortonTucker": {
+      "GAMES": 51,
+      "MIN": 25.41176470588235,
+      "ASSISTS": 2.647058823529412,
+      "OFFENSIVE_REBOUNDS": 0.6666666666666666,
+      "PERSONAL_FOULS": 2.549019607843137,
+      "2pointer_PROD": 32.108419838523645,
+      "3pointer_PROD": 2.545943867743176,
+      "FreeThrow_PROD": 3.670126874279123
+    },
+    "Terance Mann": {
+      "GAMES": 72,
+      "MIN": 28.15277777777778,
+      "ASSISTS": 2.458333333333333,
+      "OFFENSIVE_REBOUNDS": 1.3333333333333333,
+      "PERSONAL_FOULS": 2.25,
+      "2pointer_PROD": 35.75,
+      "3pointer_PROD": 2.592592592592593,
+      "FreeThrow_PROD": 2.532793209876543
+    },
+    "Terence Davis": {
+      "GAMES": 26,
+      "MIN": 20.923076923076923,
+      "ASSISTS": 1.6538461538461535,
+      "OFFENSIVE_REBOUNDS": 0.5,
+      "PERSONAL_FOULS": 2.6923076923076925,
+      "2pointer_PROD": 52.97928994082841,
+      "3pointer_PROD": 14.071005917159765,
+      "FreeThrow_PROD": 2.97189349112426
+    },
+    "Terrence Ross": {
+      "GAMES": 59,
+      "MIN": 23.338983050847457,
+      "ASSISTS": 2.016949152542373,
+      "OFFENSIVE_REBOUNDS": 0.3220338983050847,
+      "PERSONAL_FOULS": 1.152542372881356,
+      "2pointer_PROD": 33.81786842861247,
+      "3pointer_PROD": 5.574260270037346,
+      "FreeThrow_PROD": 3.878195920712439
+    },
+    "Terry Rozier": {
+      "GAMES": 61,
+      "MIN": 33.21311475409836,
+      "ASSISTS": 4.475409836065574,
+      "OFFENSIVE_REBOUNDS": 0.7540983606557377,
+      "PERSONAL_FOULS": 1.6065573770491803,
+      "2pointer_PROD": 112.52459016393442,
+      "3pointer_PROD": 26.005912389142704,
+      "FreeThrow_PROD": 5.841171728030099
+    },
+    "Theo Maledon": {
+      "GAMES": 29,
+      "MIN": 18.93103448275862,
+      "ASSISTS": 2.034482758620689,
+      "OFFENSIVE_REBOUNDS": 0.2758620689655172,
+      "PERSONAL_FOULS": 1.5862068965517242,
+      "2pointer_PROD": 13.774078478002378,
+      "3pointer_PROD": 3.72294887039239,
+      "FreeThrow_PROD": 2.696789536266349
+    },
+    "Theo Pinson": {
+      "GAMES": 5,
+      "MIN": 19.2,
+      "ASSISTS": 2,
+      "OFFENSIVE_REBOUNDS": 0,
+      "PERSONAL_FOULS": 1.8,
+      "2pointer_PROD": 18.2,
+      "3pointer_PROD": 4.2,
+      "FreeThrow_PROD": 4.8
+    },
+    "Tim Hardaway Jr.": {
+      "GAMES": 44,
+      "MIN": 28.863636363636363,
+      "ASSISTS": 2.25,
+      "OFFENSIVE_REBOUNDS": 0.3409090909090909,
+      "PERSONAL_FOULS": 1.7045454545454546,
+      "2pointer_PROD": 62.15702479338842,
+      "3pointer_PROD": 17.68388429752066,
+      "FreeThrow_PROD": 4.096590909090909
+    },
+    "Tobias Harris": {
+      "GAMES": 57,
+      "MIN": 34.40350877192982,
+      "ASSISTS": 3.491228070175439,
+      "OFFENSIVE_REBOUNDS": 1.1228070175438596,
+      "PERSONAL_FOULS": 2.0526315789473686,
+      "2pointer_PROD": 100.04616805170822,
+      "3pointer_PROD": 4.204986149584488,
+      "FreeThrow_PROD": 8.947983995075408
+    },
+    "Trae Young": {
+      "GAMES": 63,
+      "MIN": 33.904761904761905,
+      "ASSISTS": 9.412698412698411,
+      "OFFENSIVE_REBOUNDS": 0.6190476190476191,
+      "PERSONAL_FOULS": 1.6031746031746033,
+      "2pointer_PROD": 187.04963466868227,
+      "3pointer_PROD": 22.362055933484505,
+      "FreeThrow_PROD": 43.050390526581005
+    },
+    "Tre Mann": {
+      "GAMES": 49,
+      "MIN": 22.612244897959183,
+      "ASSISTS": 1.469387755102041,
+      "OFFENSIVE_REBOUNDS": 0.3673469387755102,
+      "PERSONAL_FOULS": 1.7142857142857142,
+      "2pointer_PROD": 36.08163265306122,
+      "3pointer_PROD": 6.151603498542274,
+      "FreeThrow_PROD": 1.574344023323615
+    },
+    "Trey Burke": {
+      "GAMES": 18,
+      "MIN": 16.444444444444443,
+      "ASSISTS": 2.4444444444444446,
+      "OFFENSIVE_REBOUNDS": 0.1666666666666666,
+      "PERSONAL_FOULS": 1.4444444444444444,
+      "2pointer_PROD": 36.5,
+      "3pointer_PROD": 4.2098765432098775,
+      "FreeThrow_PROD": 1.1728395061728396
+    },
+    "Trey Lyles": {
+      "GAMES": 61,
+      "MIN": 19.524590163934427,
+      "ASSISTS": 1.147540983606557,
+      "OFFENSIVE_REBOUNDS": 1.2459016393442623,
+      "PERSONAL_FOULS": 1.7049180327868851,
+      "2pointer_PROD": 27.184090298306906,
+      "3pointer_PROD": 2.6938994893845742,
+      "FreeThrow_PROD": 8.111797903789304
+    },
+    "Trey Murphy III": {
+      "GAMES": 29,
+      "MIN": 19.96551724137931,
+      "ASSISTS": 0.896551724137931,
+      "OFFENSIVE_REBOUNDS": 1.1724137931034482,
+      "PERSONAL_FOULS": 1.3448275862068966,
+      "2pointer_PROD": 16.351961950059454,
+      "3pointer_PROD": 7.944114149821641,
+      "FreeThrow_PROD": 1.2128418549346016
+    },
+    "Ty Jerome": {
+      "GAMES": 42,
+      "MIN": 18.59523809523809,
+      "ASSISTS": 2.6666666666666665,
+      "OFFENSIVE_REBOUNDS": 0.4285714285714285,
+      "PERSONAL_FOULS": 1.809523809523809,
+      "2pointer_PROD": 23.642857142857142,
+      "3pointer_PROD": 5.755102040816327,
+      "FreeThrow_PROD": 1.3469387755102042
+    },
+    "Tyler Herro": {
+      "GAMES": 61,
+      "MIN": 31.770491803278688,
+      "ASSISTS": 3.7868852459016393,
+      "OFFENSIVE_REBOUNDS": 0.4754098360655737,
+      "PERSONAL_FOULS": 1.360655737704918,
+      "2pointer_PROD": 133.41413598495026,
+      "3pointer_PROD": 17.850040311744152,
+      "FreeThrow_PROD": 9.758667024993285
+    },
+    "Tyrese Haliburton": {
+      "GAMES": 66,
+      "MIN": 34.18181818181818,
+      "ASSISTS": 7.666666666666667,
+      "OFFENSIVE_REBOUNDS": 0.7121212121212122,
+      "PERSONAL_FOULS": 1.4242424242424243,
+      "2pointer_PROD": 63.28282828282828,
+      "3pointer_PROD": 10.973140495867767,
+      "FreeThrow_PROD": 4.179063360881542
+    },
+    "Tyrese Maxey": {
+      "GAMES": 61,
+      "MIN": 34.377049180327866,
+      "ASSISTS": 4.360655737704918,
+      "OFFENSIVE_REBOUNDS": 0.3770491803278688,
+      "PERSONAL_FOULS": 2.081967213114754,
+      "2pointer_PROD": 85.3243751679656,
+      "3pointer_PROD": 5.59849502821822,
+      "FreeThrow_PROD": 9.198602526202633
+    },
+    "Vlatko Cancar": {
+      "GAMES": 10,
+      "MIN": 17.2,
+      "ASSISTS": 1.4,
+      "OFFENSIVE_REBOUNDS": 0.7,
+      "PERSONAL_FOULS": 1.2,
+      "2pointer_PROD": 13.16,
+      "3pointer_PROD": 2,
+      "FreeThrow_PROD": 1.2
+    },
+    "Wendell Carter Jr.": {
+      "GAMES": 60,
+      "MIN": 29.33333333333333,
+      "ASSISTS": 2.7333333333333334,
+      "OFFENSIVE_REBOUNDS": 2.3,
+      "PERSONAL_FOULS": 2.683333333333333,
+      "2pointer_PROD": 58.7375,
+      "3pointer_PROD": 3.872222222222222,
+      "FreeThrow_PROD": 7.475
+    },
+    "Will Barton": {
+      "GAMES": 60,
+      "MIN": 30.98333333333333,
+      "ASSISTS": 3.8,
+      "OFFENSIVE_REBOUNDS": 0.6166666666666667,
+      "PERSONAL_FOULS": 1.6,
+      "2pointer_PROD": 71.42527777777778,
+      "3pointer_PROD": 12.864166666666666,
+      "FreeThrow_PROD": 2.473333333333333
+    },
+    "Zach LaVine": {
+      "GAMES": 57,
+      "MIN": 34.43859649122807,
+      "ASSISTS": 4.473684210526316,
+      "OFFENSIVE_REBOUNDS": 0.2982456140350877,
+      "PERSONAL_FOULS": 1.8070175438596487,
+      "2pointer_PROD": 160.3804247460757,
+      "3pointer_PROD": 20.59464450600185,
+      "FreeThrow_PROD": 22.14866112650046
+    },
+    "Zeke Nnaji": {
+      "GAMES": 36,
+      "MIN": 18.58333333333333,
+      "ASSISTS": 0.4444444444444444,
+      "OFFENSIVE_REBOUNDS": 1.6111111111111112,
+      "PERSONAL_FOULS": 1.9444444444444444,
+      "2pointer_PROD": 12.910493827160495,
+      "3pointer_PROD": 2.055555555555556,
+      "FreeThrow_PROD": 1.8657407407407407
+    }
+  }
